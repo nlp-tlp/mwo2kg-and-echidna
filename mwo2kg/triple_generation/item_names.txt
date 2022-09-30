@@ -1,0 +1,424 @@
+acc. pump
+acc. pump face
+access step
+access sy
+adaptor
+adaptor lock
+adjustind bolt
+air /con
+air blower
+air conditioner
+air filter
+air hose
+air on/off
+air presure
+air seperator
+air switch
+air tank
+air tenp
+air valve
+airline
+alarm
+alt
+alternator
+arm
+audible alarm
+audit
+auto fire supression
+auto level device
+ballast
+battery
+battery box
+battery jump start
+battery'
+beak
+belt
+bit
+blind
+box
+bracket
+brake out
+break out
+break out fork
+break out wrench
+brg
+brushe
+bull h
+bull hose
+bush
+button
+c spanner
+c/b
+cab
+cab door
+cabin
+cabin door
+cable
+camera
+canister
+capillary
+carousel
+carrier
+carrier rope
+cartrigde
+case-drain
+chain
+chain lube
+chaine
+chassis
+check valve
+circuit breaka
+circuit breaker
+clamp
+clutch
+comp
+comp/hyd
+compre
+compresor
+compressor
+compressor oil tank
+compressor tank
+comressor
+condensor
+condition
+contractor_6
+control
+control connection
+control panel
+control switch
+control valve
+coolant sensor
+cooler
+cooler fan
+cooler pack
+counter
+cover gasket
+crack
+crane
+crows nest
+cup
+cylinder
+cylinder head
+dead man switch
+debri
+deck
+def.carosuel
+def.check head
+def.compressor
+def.fluro
+def.light
+def.off
+def.pipe support
+def.tap
+dicky
+die
+diesel wiggin
+discharge hose
+door
+door latch
+door seal
+doors seal
+down system
+downhole
+drain hose
+drawing
+drill
+drill bit
+drill steel
+drill tracking
+drive box
+drive shaft
+drive train
+driveshaft
+dry-break coupling
+drybreak coupling
+dust
+dust curtain
+dust shute
+e-stop
+elect box
+electrical cable
+element
+emergency exit step
+engine
+engine line
+evaporator fan
+exhaust
+fan
+fan motor
+feed
+feed chain
+feed controler
+feed cylinder
+feed lever
+feed line
+feed pipe
+feed pressure gauge
+feed pump
+feed sprocket
+feed sproket
+feed system
+fideck
+filter
+filter housing
+fire alarm
+fire suppression
+fire suppression system
+fire supprression
+fire supression
+fire sy
+fitting
+flexible bull hose
+flow divider
+flow switch
+frame lube pump
+fuel filter
+fuel inj
+fuel tank
+gasket
+gate valve
+gene
+generator
+go switch
+grease pump
+grease tank
+grouser
+grouser plate
+growser bolt
+guard
+guide
+hand rail
+handrail
+handraill/h/
+head
+head guide
+head slide
+hid light
+hoist
+hoist rope
+hold down lug
+hold down valve
+holding cylinder
+holding valve
+hole alarm
+hose
+hour meter
+housing
+hydraulic
+hydraulic cab
+hydraulic cabnet
+hydraulic control
+hydraulic drive
+hydraulic gauge
+hydraulic holding valve
+hydraulic hose
+hydraulic oil
+hydraulic pipe
+hydraulic pressure gauge
+hydraulic return hose
+hydraulic suction line
+hydraulic tank
+hydraulic warning alarm
+idler
+ignition switch
+index cylinder
+indexing cylinder
+injector
+inlet
+inlet filter
+inlet seal
+inltake
+input seal
+interior light
+inverter
+jack
+jack cylinder
+jack leg
+jack light
+jack limit
+lamp
+lanolin
+lanotec
+level sensor
+levelling jack
+lid
+lift
+lift cylinder
+light
+light'
+line
+link
+litre
+load roller
+loader
+lock
+lock cylinder
+locking cylinder
+locking pin
+lube line
+lube pump
+lube station
+lube system
+machine
+manifold
+mask
+mast
+mast pin
+mast-lh
+mechancial
+mechanical
+mechenical
+menu bar
+mesh
+minimum pressure valve
+motor
+mount bolt
+mounting bolt
+nipple
+noise
+o-ring
+o/flow
+oil cooler
+oil line
+oiler
+onsafety chain
+operation
+override switch
+packing
+palfinger
+park brake
+parrot beak
+part
+pedistal
+pex turbo
+pin
+pipe
+pipe positioner
+pipe support
+pivot
+positioner arm
+positioner switch
+postion steel
+potable water
+potentiometer
+power
+power step
+pre service
+pre-service
+pressure gauge
+primer pump
+propel
+propel motor
+propel pump
+propell valve
+protection hood
+proximity switch
+pull down chain
+pulldown chain
+pump
+pump base
+rack
+radiator chassis
+radio
+rail staunchen
+raise controller
+raise cylinder
+reamer
+receiver
+regen valve
+relief press
+retaining plate
+return filter
+rocker switch
+rod
+rod holder
+rod soupert
+rod support
+roller
+rope
+rotary head
+rotation controller
+rotation hydraulic pipe
+rotation lever
+rotry head
+rubber
+rubber intake
+safety rail
+safety rope
+seal
+seal kit
+seat
+self ballast
+sensor
+seper
+seperator
+shackle
+shaft
+sheave
+sheet
+sheeve
+shutdown
+shutdown pad
+shutdown scope
+shute
+sign
+siwvel
+skirt
+slap wrench
+slew
+solenoid
+speed gauge
+split
+sprocket
+staple lock
+starter motor
+steel
+steel pipe
+stem
+stems,sub
+step indicator
+stop
+stroker plate
+stud
+sub
+sub saver
+sumpmachine
+support beam
+switch
+system
+tank
+tap
+tappet
+temp
+test
+thread lube
+thread lube pump
+thread/bit lube
+timing bar
+tool
+tool wrench
+track
+track frame
+truck
+turbo
+turbo exhaust
+uni
+valve
+vertical lock
+vibration
+viewing window
+volt light
+w/way
+walk way
+warning light
+wash
+washer/wyper
+water injection hose
+water injection pump
+water injection system
+water tank
+water trap
+way out
+winch
+window
+wrench

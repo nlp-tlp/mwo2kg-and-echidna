@@ -1,0 +1,11 @@
+.sidebar {
+    background-color: #e6e6e6;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    margin-top: 20px;
+    padding: 10px;
+}

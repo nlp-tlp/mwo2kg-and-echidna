@@ -1,0 +1,144 @@
+Activity
+ Activity/Activity
+ Activity/Inspect
+ Activity/Minor_Maintenance
+ Activity/Modify
+ Activity/Repair
+ Activity/Replace
+ Activity/Uncategorised
+Agent
+Attribute
+Cardinality
+Consumable
+Event
+Item
+ Item/Arranged_Individual
+  Item/Arranged_Individual/Feature
+   Item/Arranged_Individual/Feature/Crack
+   Item/Arranged_Individual/Feature/Hole
+ Item/Basics
+  Item/Basics/Cap
+  Item/Basics/Connection
+  Item/Basics/Container
+   Item/Basics/Container/Vessel
+    Item/Basics/Container/Vessel/Tank
+  Item/Basics/Cover
+  Item/Basics/Door
+  Item/Basics/Enclosure
+   Item/Basics/Enclosure/Casing
+    Item/Basics/Enclosure/Casing/Crankcase
+   Item/Basics/Enclosure/Hood
+   Item/Basics/Enclosure/Housing
+  Item/Basics/Frame
+  Item/Basics/Manifold
+  Item/Basics/Rail
+  Item/Basics/Seal
+   Item/Basics/Seal/Gasket
+   Item/Basics/Seal/Shaft_Seal
+  Item/Basics/Skirt
+  Item/Basics/Trap
+  Item/Basics/Vent
+  Item/Basics/Wrench
+ Item/Connection_Material
+  Item/Connection_Material/Bolt
+  Item/Connection_Material/Pin
+ Item/Document
+  Item/Document/Chart
+ Item/Fluid_Regulator
+  Item/Fluid_Regulator/Valve
+   Item/Fluid_Regulator/Valve/Control_Valve
+   Item/Fluid_Regulator/Valve/Gate_Valve
+   Item/Fluid_Regulator/Valve/Ram
+   Item/Fluid_Regulator/Valve/Sampling_Valve
+ Item/Functional_Physical_Object
+  Item/Functional_Physical_Object/System
+ Item/Heat_Transfer
+  Item/Heat_Transfer/Air_Conditioner
+  Item/Heat_Transfer/Heat_Exchanger
+   Item/Heat_Transfer/Heat_Exchanger/Cooler
+    Item/Heat_Transfer/Heat_Exchanger/Cooler/Condenser
+ Item/Instrumentation
+  Item/Instrumentation/Detecting_Element
+   Item/Instrumentation/Detecting_Element/Level_Sensor
+  Item/Instrumentation/Lever
+  Item/Instrumentation/Process_Instrument
+   Item/Instrumentation/Process_Instrument/Detecting_Instrument
+    Item/Instrumentation/Process_Instrument/Detecting_Instrument/Counter
+    Item/Instrumentation/Process_Instrument/Detecting_Instrument/Gauge
+  Item/Instrumentation/Regulator
+   Item/Instrumentation/Regulator/Controller
+  Item/Instrumentation/Sight_Glass
+ Item/Piping
+  Item/Piping/Jaw
+  Item/Piping/Pipe
+   Item/Piping/Pipe/Tube
+ Item/Position_Switch
+  Item/Position_Switch/Proximity_Switch
+ Item/Protection
+  Item/Protection/Sleeve
+   Item/Protection/Sleeve/Bush
+ Item/Rotating_Equipment
+  Item/Rotating_Equipment/Bearing
+  Item/Rotating_Equipment/Brake
+  Item/Rotating_Equipment/Compressor
+  Item/Rotating_Equipment/Engine
+  Item/Rotating_Equipment/Fan
+  Item/Rotating_Equipment/Gear_Box
+  Item/Rotating_Equipment/Motor
+  Item/Rotating_Equipment/Press
+  Item/Rotating_Equipment/Pump
+  Item/Rotating_Equipment/Transmission
+   Item/Rotating_Equipment/Transmission/Clutch
+  Item/Rotating_Equipment/Wire
+ Item/Static_Equipment
+  Item/Static_Equipment/Breather
+  Item/Static_Equipment/Lug
+  Item/Static_Equipment/Mesh
+  Item/Static_Equipment/Plate
+  Item/Static_Equipment/Roof
+  Item/Static_Equipment/Separator
+   Item/Static_Equipment/Separator/Filter
+    Item/Static_Equipment/Separator/Filter/Air_Filter
+    Item/Static_Equipment/Separator/Filter/Fuel_Filter
+  Item/Static_Equipment/Spray
+  Item/Static_Equipment/Tray
+ Item/Support
+  Item/Support/Pedestal
+  Item/Support/Pipe_Support
+ Item/Transport
+  Item/Transport/Bay
+  Item/Transport/Deck
+  Item/Transport/Lift
+  Item/Transport/Lifting_Appliance
+   Item/Transport/Lifting_Appliance/Crane
+   Item/Transport/Lifting_Appliance/Hoist
+  Item/Transport/Mechanical_Cable
+   Item/Transport/Mechanical_Cable/Chain
+   Item/Transport/Mechanical_Cable/Rope
+  Item/Transport/Transport_Device
+   Item/Transport/Transport_Device/Closed_Transport_Device
+    Item/Transport/Transport_Device/Closed_Transport_Device/Feeder
+  Item/Transport/Vehicle
+   Item/Transport/Vehicle/Motor_Vehicle
+    Item/Transport/Vehicle/Motor_Vehicle/Truck
+   Item/Transport/Vehicle/Train
+ Item/Uncategorised
+Location
+Observation
+ Observation/Abnormal instrument reading
+ Observation/Breakdown
+ Observation/Electrical
+ Observation/Failure to start on demand
+ Observation/Leaking
+ Observation/Low output
+ Observation/Minor in-service problems
+ Observation/Noise
+ Observation/Other
+ Observation/Overheating
+ Observation/Plugged or choked
+ Observation/Spurious stop
+ Observation/Structural deficiency
+ Observation/Vibration
+ Observation/Uncategorised
+Specifier
+Time

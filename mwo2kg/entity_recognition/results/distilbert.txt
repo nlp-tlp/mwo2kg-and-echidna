@@ -1,0 +1,16 @@
+Results:
+- F1-score (micro) 0.8425
+- F1-score (macro) 0.8547
+
+By class:
+Activity   tp: 226 - fp: 10 - fn: 12 - precision: 0.9576 - recall: 0.9496 - f1-score: 0.9536
+Agent      tp: 19 - fp: 3 - fn: 0 - precision: 0.8636 - recall: 1.0000 - f1-score: 0.9268
+Attribute  tp: 7 - fp: 3 - fn: 4 - precision: 0.7000 - recall: 0.6364 - f1-score: 0.6667
+Cardinality tp: 12 - fp: 2 - fn: 0 - precision: 0.8571 - recall: 1.0000 - f1-score: 0.9231
+Consumable tp: 49 - fp: 12 - fn: 10 - precision: 0.8033 - recall: 0.8305 - f1-score: 0.8167
+Item       tp: 416 - fp: 130 - fn: 132 - precision: 0.7619 - recall: 0.7591 - f1-score: 0.7605
+Location   tp: 116 - fp: 9 - fn: 5 - precision: 0.9280 - recall: 0.9587 - f1-score: 0.9431
+Observation tp: 166 - fp: 27 - fn: 19 - precision: 0.8601 - recall: 0.8973 - f1-score: 0.8783
+Specifier  tp: 7 - fp: 0 - fn: 4 - precision: 1.0000 - recall: 0.6364 - f1-score: 0.7778
+Time       tp: 9 - fp: 0 - fn: 2 - precision: 1.0000 - recall: 0.8182 - f1-score: 0.9000
+2021-02-17 16:04:15,211 ----------------------------------------------------------------------------------------------------

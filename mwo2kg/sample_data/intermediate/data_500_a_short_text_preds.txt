@@ -1,0 +1,2756 @@
+1000 B-Cardinality
+hr B-Location
+mechanical B-Item
+and O
+lube B-Consumable
+service B-Activity
+
+2 B-Cardinality
+lights B-Observation
+out I-Observation
+on B-Location
+machine B-Item
+
+3 B-Cardinality
+x B-Cardinality
+240 B-Cardinality
+volt B-Item
+lights I-Item
+out B-Observation
+
+ITEM_ID O
+compressor B-Item
+oil B-Consumable
+requires B-Observation
+top I-Observation
+up I-Observation
+
+ITEM_ID O
+inspection B-Activity
+29/12 B-Time
+eme4489 B-Time
+
+ITEM_ID O
+mechancial B-Item
+service B-Activity
+4 O
+wk/500 O
+hr B-Time
+
+ITEM_ID O
+not B-Observation
+tramming I-Observation
+
+ITEM_ID O
+pre B-Item
+service I-Item
+setup B-Activity
+
+ITEM_ID O
+pre-service B-Item
+setup B-Activity
+
+ITEM_ID O
+pre-service B-Item
+setup B-Activity
+
+access B-Activity
+audit B-Item
+repairs B-Activity
+
+adjust B-Activity
+rotary B-Item
+head I-Item
+guides B-Item
+
+air B-Item
+/con I-Item
+very O
+noisy B-Observation
+
+air B-Item
+cond I-Item
+compressor B-Item
+
+air B-Item
+cond. I-Item
+working B-Observation
+intermittently. I-Observation
+
+air B-Observation
+leak B-Observation
+around B-Location
+rotary B-Item
+head I-Item
+
+air B-Item
+valve I-Item
+not B-Observation
+shutting I-Observation
+off I-Observation
+
+alternator B-Item
+r/s B-Location
+
+audible B-Item
+alarm I-Item
+on B-Observation
+softly I-Observation
+at I-Observation
+all I-Observation
+times I-Observation
+
+auto B-Item
+level I-Item
+device I-Item
+reading B-Observation
+backwards I-Observation
+
+autosparks B-Agent
+NA O
+08/03/06 B-Time
+
+bad O
+vibration B-Observation
+
+bent B-Observation
+hand B-Item
+rail I-Item
+at B-Location
+back B-Location
+cabin B-Item
+door I-Item
+
+blow B-Observation
+hose B-Item
+
+book B-Activity
+out I-Activity
+filters B-Consumable
+
+both B-Cardinality
+rear B-Location
+jacks B-Item
+leaking B-Observation
+oil B-Consumable
+
+break B-Item
+out I-Item
+u/s B-Observation
+
+breakout B-Item
+fork I-Item
+cylinder B-Item
+- O
+rework B-Activity
+
+broken B-Observation
+control B-Item
+connection. I-Item
+
+broken B-Observation
+go B-Item
+switch I-Item
+r/h B-Location
+mast B-Item
+lock B-Item
+.the O
+in O
+
+broken B-Observation
+handraill/h/s B-Item
+crows B-Item
+nest I-Item
+
+broken B-Observation
+hose B-Item
+on B-Location
+cylinder B-Item
+
+broken B-Observation
+l/h B-Location
+pulldown B-Item
+chain I-Item
+
+broken B-Observation
+locking B-Item
+pin I-Item
+
+broken B-Observation
+tool B-Item
+wrench I-Item
+holding B-Item
+cylinder. I-Item
+
+build B-Activity
+up I-Activity
+rod B-Item
+support I-Item
+beak B-Item
+
+bull B-Item
+hose I-Item
+air B-Observation
+leak. B-Observation
+
+bull B-Item
+hose I-Item
+split B-Item
+
+busted B-Observation
+hydraulic B-Item
+hose I-Item
+
+c B-Item
+spanner I-Item
+for O
+minning B-Observation
+
+c/b6 O
+tripping B-Observation
+e/l. O
+
+cab B-Item
+interior B-Item
+light I-Item
+not B-Observation
+working I-Observation
+
+capital B-Agent
+test B-Activity
+cab B-Item
+
+capital B-Agent
+fit B-Activity
+hyd. B-Item
+drive I-Item
+to O
+a/c B-Item
+compres B-Item
+
+capital B-Agent
+move B-Activity
+cab B-Item
+door I-Item
+as O
+per O
+drawings B-Item
+
+capital B-Agent
+engine B-Item
+protection B-Item
+hood I-Item
+
+capital B-Agent
+fit B-Activity
+larger O
+sumpmachine B-Item
+shut B-Event
+do I-Event
+
+capital B-Agent
+fit B-Activity
+walk B-Item
+way I-Item
+to O
+rhs B-Location
+of B-Location
+mast B-Item
+
+capital B-Agent
+install B-Activity
+mesh B-Item
+in B-Location
+mast B-Item
+
+capital B-Agent
+turbo B-Item
+& O
+ex O
+manifold B-Item
+guards. B-Item
+
+capital B-Agent
+install B-Activity
+access B-Item
+sys. I-Item
+
+capital B-Agent
+modify B-Activity
+w/ways B-Item
+around B-Location
+eng. B-Item
+
+capital- B-Agent
+chubb B-Agent
+o/haul B-Activity
+fire B-Item
+sys. I-Item
+
+carousel B-Item
+not B-Observation
+actioning I-Observation
+to O
+postion B-Item
+steels I-Item
+
+case-drain B-Item
+leaking B-Observation
+
+cci; B-Agent
+routine B-Activity
+ndt O
+inspection B-Activity
+
+chaine B-Item
+oiler B-Item
+no B-Observation
+working I-Observation
+
+change B-Activity
+cyclinder. B-Item
+
+change B-Activity
+out I-Activity
+cyl B-Item
+
+change B-Activity
+out I-Activity
+deck B-Item
+seal B-Item
+
+change B-Activity
+out I-Activity
+lube B-Item
+pump I-Item
+
+changeout B-Activity
+compressor B-Item
+drive B-Item
+shaft I-Item
+
+check B-Activity
+and O
+repair B-Activity
+exhaust B-Item
+leaks B-Observation
+
+check B-Activity
+drill B-Item
+water O
+level B-Item
+sensor I-Item
+
+check B-Activity
+feed B-Item
+system I-Item
+control B-Item
+
+check B-Activity
+fire B-Item
+alarm I-Item
+
+check B-Activity
+hyd. B-Item
+return O
+filters O
+for O
+debris B-Item
+
+check B-Activity
+oil B-Consumable
+leak B-Observation
+at B-Location
+rotary B-Item
+head I-Item
+
+clean B-Activity
+out I-Activity
+chain B-Item
+lube B-Consumable
+canister B-Item
+
+comp B-Activity
+high B-Location
+air B-Item
+tenp I-Item
+
+comp. B-Item
+air B-Observation
+tune B-Activity
+at B-Location
+end I-Location
+of O
+s/down O
+
+complete B-Activity
+1000 O
+hr O
+mechenical B-Item
+inspect. B-Activity
+
+complete B-Activity
+parts B-Item
+listing O
+for O
+shutdown B-Item
+
+compresor B-Item
+over B-Observation
+temp I-Observation
+fault I-Observation
+
+compressor B-Item
+control B-Item
+repairs B-Activity
+
+compressor B-Item
+no B-Observation
+air O
+
+compressor B-Item
+oil B-Consumable
+low B-Observation
+lube B-Consumable
+alarm B-Item
+
+compressor B-Item
+oil B-Consumable
+low B-Observation
+pressure I-Attribute
+fault B-Observation
+
+compressor B-Item
+over B-Observation
+temp I-Observation
+
+control B-Item
+panel I-Item
+alarms B-Item
+not B-Observation
+working I-Observation
+
+coolant B-Consumable
+leak B-Observation
+around B-Location
+coolant B-Item
+sensor I-Item
+
+counter B-Item
+looses B-Observation
+track I-Observation
+of I-Observation
+depth I-Observation
+
+crack B-Observation
+in B-Location
+chassis B-Item
+
+crack B-Activity
+in B-Location
+l/h B-Location
+top B-Location
+side I-Location
+handrail B-Item
+
+crack B-Observation
+in B-Location
+pipe B-Item
+near B-Location
+holding B-Item
+valve I-Item
+
+crack B-Activity
+test B-Item
+& O
+repair B-Activity
+fuel B-Item
+tanks I-Item
+
+cracked B-Observation
+mast-lh B-Item
+outer B-Location
+
+cracks B-Observation
+in B-Location
+radiator B-Item
+chassis I-Item
+mounting B-Observation
+
+crane B-Item
+& O
+truck B-Item
+drill B-Item
+steel I-Item
+to O
+ITEM_ID O
+
+cwpope B-Agent
+to O
+test I-Activity
+seperator B-Item
+housing B-Item
+
+damaged B-Observation
+electrical B-Item
+cable I-Item
+on B-Location
+ITEM_ID O
+
+dead B-Item
+man I-Item
+switch I-Item
+not B-Observation
+working. I-Observation
+
+deck B-Item
+bush B-Item
+needs B-Observation
+replacing B-Activity
+ITEM_ID O
+
+deck B-Item
+bush B-Item
+woren B-Observation
+
+deck B-Item
+cylinders B-Item
+creeping B-Observation
+valve B-Item
+u/s B-Observation
+
+deck B-Item
+falling B-Observation
+down I-Observation
+
+deck B-Item
+seal B-Item
+
+def. O
+check B-Activity
+cab B-Item
+dust B-Observation
+entry I-Observation
+
+def. O
+check B-Activity
+coolant B-Consumable
+flow B-Item
+switch I-Item
+
+def. O
+replace B-Activity
+deck B-Item
+seal B-Item
+
+def. O
+replace B-Activity
+deck B-Item
+shute B-Item
+rubbers B-Item
+
+def.carosuel B-Item
+lower B-Location
+roller B-Item
+u/s B-Observation
+
+def.check B-Activity
+and O
+repair B-Activity
+pipe B-Item
+support I-Item
+limits B-Attribute
+
+def.check O
+engine B-Item
+oil B-Consumable
+leak B-Observation
+
+def.check B-Activity
+feed B-Item
+and O
+rotation B-Attribute
+pressure I-Attribute
+
+def.check B-Item
+head I-Item
+creep B-Observation
+
+def.check B-Activity
+mast B-Item
+pins B-Item
+for O
+play O
+
+def.check B-Activity
+water B-Item
+injection I-Item
+hose I-Item
+onto B-Location
+head B-Item
+
+def.compressor B-Item
+receiver B-Item
+tap B-Item
+leaking B-Observation
+
+def.fluro B-Item
+light B-Item
+in B-Location
+cab B-Item
+not B-Observation
+working I-Observation
+
+def.light B-Item
+shinning B-Observation
+up I-Observation
+to I-Observation
+head I-Observation
+out I-Observation
+
+def.off B-Item
+side B-Location
+camera B-Item
+not B-Observation
+working I-Observation
+
+def.one B-Cardinality
+driveshaft B-Item
+nipple B-Item
+wont B-Observation
+tak I-Observation
+greas O
+
+def.pipe B-Item
+support I-Item
+arm B-Item
+worn B-Observation
+through I-Observation
+
+def.tap B-Item
+on B-Location
+potable B-Item
+water I-Item
+inlet B-Item
+leaking B-Observation
+
+discon B-Activity
+gene B-Item
+from O
+shutdown B-Item
+pad. I-Item
+
+door B-Item
+latch I-Item
+repair B-Activity
+
+doors B-Item
+seals I-Item
+not B-Observation
+sealing I-Observation
+at B-Location
+top I-Location
+of I-Location
+doors B-Item
+
+drill B-Item
+bit I-Item
+repairs B-Activity
+
+drill B-Item
+tracking I-Item
+to O
+the O
+left B-Location
+
+drill B-Item
+will B-Observation
+not I-Observation
+tram I-Observation
+
+drillpro. B-Agent
+o/haul B-Activity
+8 B-Cardinality
+mast B-Item
+index B-Item
+cylinders. I-Item
+
+drillpro. O
+o/haul B-Activity
+air B-Item
+on/off I-Item
+cylinder. B-Item
+
+drillpro. O
+o/haul B-Activity
+lh B-Location
+mast B-Item
+lift B-Item
+cylinder. I-Item
+
+drillpro. O
+o/haul B-Activity
+lhs B-Location
+feed B-Item
+cylinder. I-Item
+
+drillpro. O
+o/haul B-Activity
+lock B-Item
+cylinder. I-Item
+
+drillpro. B-Agent
+o/haul B-Activity
+rhs B-Location
+feed B-Item
+cylinder. I-Item
+
+drive B-Item
+train I-Item
+vibration B-Item
+& O
+noise B-Item
+found B-Observation
+alt I-Observation
+
+dust B-Item
+leaking B-Observation
+into B-Location
+cab B-Item
+
+eng B-Item
+shuts B-Observation
+down I-Observation
+no B-Observation
+reason I-Observation
+found O
+
+eng B-Item
+will B-Observation
+not I-Observation
+shut I-Observation
+down I-Observation
+
+engine B-Item
+hour B-Item
+meter I-Item
+not B-Observation
+working I-Observation
+
+engine B-Item
+oil B-Consumable
+pressure B-Item
+gauge I-Item
+not B-Observation
+working I-Observation
+
+engine B-Item
+shutdown, O
+cylinder B-Item
+head I-Item
+failure B-Observation
+
+engine B-Item
+shutting O
+down O
+with O
+air O
+demand O
+
+erratic B-Observation
+control I-Observation
+of O
+jacks B-Item
+& O
+hoist. B-Item
+
+fab B-Activity
+& O
+fit B-Activity
+access O
+to O
+cab B-Item
+top B-Location
+& O
+mast B-Item
+
+fab B-Activity
+& O
+fit B-Activity
+new B-Specifier
+elect B-Item
+box I-Item
+in B-Location
+cab B-Item
+
+fab B-Activity
+& O
+relocate B-Activity
+battery B-Item
+box I-Item
+
+fab. O
+& O
+fit B-Activity
+emergency B-Item
+exit I-Item
+steps. I-Item
+
+fan B-Item
+motor I-Item
+noisy B-Observation
+
+faulty B-Observation
+circuit B-Item
+breaker I-Item
+on B-Location
+generator B-Item
+
+faulty B-Observation
+proximity B-Item
+switch I-Item
+& O
+circuit B-Item
+breaka I-Item
+
+feed B-Item
+and O
+jacks B-Item
+slow B-Observation
+
+feed B-Item
+controler I-Item
+not B-Observation
+holding I-Observation
+head B-Item
+
+feed B-Item
+lever I-Item
+very B-Observation
+tight I-Observation
+
+feed B-Item
+override B-Item
+switch I-Item
+not B-Observation
+working I-Observation
+
+feed B-Item
+potentiometer B-Item
+playing B-Observation
+up I-Observation
+
+feed B-Item
+pressure B-Item
+guage I-Item
+sticking B-Observation
+
+feed B-Item
+pressure B-Attribute
+problem B-Observation
+
+feed B-Item
+wont B-Observation
+operate I-Observation
+
+fidecks B-Item
+require B-Observation
+new B-Specifier
+skirts B-Item
+
+final O
+shutdown B-Item
+scope I-Item
+
+fit B-Activity
+60 B-Specifier
+litre B-Item
+comp. B-Item
+oil B-Consumable
+reserve O
+tank B-Item
+
+fit B-Activity
+dicky B-Item
+seat B-Item
+
+fit B-Activity
+diesel B-Item
+wiggins I-Item
+to B-Location
+l/h B-Location
+side I-Location
+point I-Location
+
+fit B-Activity
+hyd. B-Item
+drive I-Item
+to B-Location
+alternator B-Item
+
+fit B-Activity
+new B-Specifier
+deck B-Item
+
+fit B-Activity
+new B-Specifier
+deck B-Item
+bush B-Item
+
+fit B-Activity
+new B-Specifier
+deck B-Item
+bush B-Item
+to O
+ITEM_ID O
+
+fit B-Activity
+new B-Specifier
+rod B-Item
+holder I-Item
+arm B-Item
+
+fit B-Activity
+new B-Specifier
+stems,sub B-Item
+& O
+deck B-Item
+bush B-Item
+
+fit B-Activity
+pex B-Item
+turbo I-Item
+
+fitting B-Item
+loose B-Observation
+on B-Location
+siwvel B-Item
+
+fix B-Activity
+door B-Item
+seal I-Item
+
+flat B-Observation
+battery B-Item
+jump I-Item
+start I-Activity
+
+front B-Location
+jack B-Item
+light I-Item
+not B-Observation
+going I-Observation
+out I-Observation
+
+front B-Location
+jack B-Item
+limits I-Item
+not B-Observation
+working I-Observation
+
+front B-Location
+jacks B-Item
+will B-Observation
+not I-Observation
+work I-Observation
+
+front B-Location
+jacks B-Item
+wont B-Observation
+raise I-Observation
+
+grease B-Consumable
+leak B-Observation
+at B-Location
+frame B-Item
+lube I-Item
+pump I-Item
+fittings B-Item
+
+grease B-Activity
+lube B-Consumable
+alarm B-Item
+
+grease B-Item
+pump I-Item
+needs B-Observation
+overhauling O
+
+grease B-Item
+pump I-Item
+r/s B-Location
+
+grease B-Item
+tank I-Item
+leaking B-Observation
+at B-Location
+pump B-Item
+base I-Item
+
+grs B-Agent
+b.creedon B-Activity
+15/2/06 B-Time
+
+grs B-Agent
+g.reid B-Agent
+8/2/06 B-Time
+
+grs B-Agent
+l.cambell B-Activity
+15/2/06 B-Time
+
+hand B-Item
+rail I-Item
+repairs. B-Activity
+
+hasting B-Observation
+doing I-Observation
+a O
+service B-Activity
+
+hastings B-Agent
+inspection B-Activity
+
+head B-Item
+& O
+deck B-Item
+creeping B-Observation
+down I-Observation
+
+head B-Item
+control B-Item
+valve I-Item
+not B-Observation
+working I-Observation
+
+head B-Item
+guides I-Item
+worn B-Observation
+
+head B-Item
+keeps B-Observation
+creeping O
+down O
+
+head B-Item
+playing B-Observation
+up. I-Observation
+
+head B-Item
+sensor B-Item
+for O
+traming B-Observation
+at B-Location
+top I-Location
+of I-Location
+mast B-Item
+
+head B-Activity
+up I-Activity
+guides B-Item
+and O
+cups B-Item
+need B-Observation
+replacing B-Activity
+
+hid B-Item
+lights I-Item
+not B-Observation
+working I-Observation
+
+hoist B-Item
+feed B-Item
+to O
+farst O
+
+hose B-Item
+between B-Location
+compressor B-Item
+oil I-Item
+tank I-Item
+& O
+seper B-Item
+
+hose B-Item
+off B-Observation
+the O
+air B-Item
+tank I-Item
+bent B-Observation
+
+hose B-Item
+tangled B-Observation
+in B-Location
+rotary B-Item
+head I-Item
+
+hyd B-Item
+cab I-Item
+door B-Item
+to B-Observation
+be I-Observation
+bolted I-Observation
+shut I-Observation
+
+hyd B-Item
+gauges I-Item
+not B-Observation
+working I-Observation
+
+hyd B-Item
+tune B-Activity
+at O
+end B-Time
+of O
+shut B-Event
+down I-Event
+
+hydraulic B-Item
+control I-Item
+button B-Item
+won't B-Observation
+switch I-Observation
+of I-Observation
+
+hydraulic B-Item
+pressure I-Item
+guage I-Item
+sticking. B-Observation
+
+hydraulic B-Item
+warning I-Item
+alarm I-Item
+
+input B-Item
+seal I-Item
+leaking B-Observation
+on B-Location
+front B-Location
+drive B-Item
+box I-Item
+
+inspect B-Activity
+crack B-Item
+in B-Location
+hydraulic B-Item
+tank I-Item
+ITEM_ID O
+
+inspect B-Activity
+hydraulic B-Consumable
+oil I-Consumable
+leak B-Observation
+on B-Location
+jack B-Item
+leg I-Item
+
+inspect B-Activity
+idlers B-Item
+& O
+report B-Activity
+condition B-Item
+
+inspect B-Activity
+l/h B-Location
+propel B-Item
+pump I-Item
+operation B-Item
+
+inspect B-Activity
+possible O
+cable B-Item
+damage B-Observation
+
+inspection B-Activity
+3/5/01. B-Time
+some B-Cardinality
+hyd B-Item
+hoses I-Item
+behind B-Location
+
+install B-Activity
+85/140 B-Cardinality
+dry-break B-Item
+couplings I-Item
+
+install B-Activity
+85/140 B-Cardinality
+drybreak B-Item
+couplings I-Item
+
+install B-Activity
+gate B-Item
+valve I-Item
+in B-Location
+hyd B-Item
+suction I-Item
+line I-Item
+
+install B-Activity
+new B-Specifier
+deck B-Item
+seal B-Item
+
+installling B-Activity
+ballasts B-Item
+
+inverter B-Item
+tripping B-Observation
+on O
+e/l O
+
+isolate B-Activity
+2 B-Cardinality
+burnt B-Observation
+cables B-Item
+- O
+see O
+text O
+
+jack B-Item
+check B-Activity
+seals B-Item
+hard- O
+erratic B-Observation
+
+jack B-Item
+not B-Observation
+retracting I-Observation
+
+jakstas B-Agent
+NA O
+repairs B-Activity
+10/2/06 B-Time
+
+l/h B-Location
+lower I-Location
+feed B-Item
+sproket I-Item
+out B-Observation
+of O
+line B-Item
+
+l/h B-Location
+track B-Item
+binding B-Observation
+up I-Observation
+
+l/h B-Location
+track B-Item
+is O
+slow B-Observation
+to I-Observation
+operate I-Observation
+
+lanolin B-Item
+for O
+chain B-Item
+lube B-Consumable
+
+leak B-Observation
+l/h B-Location
+fan B-Item
+motor B-Item
+hose. B-Item
+
+leaking B-Observation
+cyclinder. B-Item
+
+levelling B-Item
+jacks I-Item
+slow B-Observation
+
+lhs B-Location
+mast B-Item
+lift B-Item
+cylinder I-Item
+leaking. B-Observation
+
+lift B-Item
+stem B-Item
+back O
+in B-Location
+
+light's B-Item
+not B-Observation
+working I-Observation
+
+lights B-Item
+cutting B-Observation
+out I-Observation
+
+loose B-Observation
+growser B-Item
+bolts I-Item
+l/h B-Location
+track B-Item
+
+loss B-Observation
+of O
+downhole B-Item
+air O
+
+lost B-Observation
+a O
+cylender B-Item
+pin B-Item
+
+lost B-Observation
+a O
+rod B-Item
+
+lost B-Observation
+pin B-Item
+to O
+indexing B-Item
+cylender I-Item
+
+low B-Observation
+compressor B-Item
+air B-Attribute
+pressure I-Attribute
+
+low B-Observation
+on B-Location
+power B-Item
+& O
+turbo B-Item
+glowing B-Observation
+red I-Observation
+
+low B-Observation
+power I-Attribute
+
+lube B-Consumable
+alarm B-Item
+activated B-Observation
+
+malfunction B-Activity
+in B-Location
+bit B-Item
+lube B-Item
+system. I-Item
+
+manufacturer24 B-Agent
+ITEM_ID O
+repairs B-Activity
+
+manufacturer24 B-Agent
+ITEM_ID O
+10/02/2006 B-Time
+
+manufacturer24 B-Agent
+ITEM_ID O
+15/03/06 B-Time
+
+manufacturer24 B-Agent
+ITEM_ID O
+15/2/06 B-Time
+
+manufacturer24 B-Agent
+ITEM_ID O
+repairs B-Activity
+
+manufacturer24 B-Agent
+NA O
+14-03-06 B-Time
+
+manufacturer24 B-Agent
+NA O
+8/3/06 B-Time
+repairs B-Activity
+
+manufacturer24 B-Agent
+NA O
+repairs B-Activity
+
+manufacturer30 B-Agent
+have O
+lost B-Observation
+menu B-Item
+bar I-Item
+
+manufacturer5 B-Agent
+o/haul B-Activity
+mast B-Item
+raise B-Item
+cylinder I-Item
+
+mask B-Item
+locking B-Item
+pin I-Item
+light B-Item
+u/s B-Observation
+
+mast B-Item
+locking B-Item
+pin I-Item
+u/s B-Observation
+
+mast B-Item
+pin I-Item
+will B-Observation
+not I-Observation
+retract I-Observation
+
+mast B-Item
+warning B-Item
+light I-Item
+not B-Observation
+working I-Observation
+
+mindrill B-Agent
+refurb B-Activity
+drill B-Item
+rods B-Item
+
+modify B-Activity
+slap B-Item
+wrench I-Item
+hold B-Item
+down I-Item
+lugs I-Item
+
+move B-Activity
+water B-Item
+tank I-Item
+o/flow B-Item
+to B-Location
+outside B-Location
+
+needs B-Observation
+a O
+crane B-Item
+first O
+up O
+...dropped O
+steel B-Item
+
+needs B-Observation
+a O
+jump B-Activity
+start I-Activity
+
+no O
+down O
+hole O
+air O
+
+no B-Observation
+water O
+going O
+to B-Location
+mast B-Item
+
+not B-Observation
+hoisting I-Observation
+up I-Observation
+
+o/haul B-Activity
+air B-Item
+conditioning I-Item
+system B-Item
+
+o/haul B-Activity
+track B-Item
+frame I-Item
+pivot B-Item
+
+o/haul B-Activity
+winch B-Item
+
+oil B-Consumable
+leak B-Observation
+around B-Location
+pumps B-Item
+
+oil B-Consumable
+leak B-Observation
+at B-Location
+bottom B-Location
+of I-Location
+mast B-Item
+
+oil B-Consumable
+leak B-Observation
+at B-Location
+deck B-Item
+wrench B-Item
+
+oil B-Consumable
+leak B-Observation
+at B-Location
+l/h/f B-Location
+chassis B-Item
+
+oil B-Consumable
+leak B-Observation
+at B-Location
+l/h/f B-Location
+jack B-Item
+cylinder I-Item
+
+oil B-Consumable
+leak B-Observation
+at B-Location
+turbo B-Item
+
+oil B-Consumable
+leak B-Observation
+feed B-Item
+pump I-Item
+
+oil B-Consumable
+leak B-Observation
+l/h B-Location
+feed B-Item
+cylinder I-Item
+
+oil B-Consumable
+leak B-Observation
+on B-Location
+feed B-Item
+cylinder I-Item
+
+oil B-Consumable
+leak B-Observation
+regen B-Item
+valve I-Item
+
+oil B-Consumable
+leak B-Observation
+under B-Location
+acc. B-Item
+pumps I-Item
+
+oil B-Consumable
+leak B-Observation
+under B-Location
+oil B-Item
+cooler I-Item
+
+oil B-Consumable
+leakon B-Observation
+tool B-Item
+wrench I-Item
+
+oil B-Consumable
+leaks B-Observation
+in B-Location
+hyd. B-Item
+cabnet I-Item
+
+oil B-Consumable
+leaks B-Observation
+on B-Location
+mast. B-Item
+
+oil B-Item
+lines I-Item
+tangled B-Observation
+
+one B-Cardinality
+filter B-Item
+still O
+leaking B-Observation
+oil B-Consumable
+
+operator B-Agent
+change B-Activity
+air B-Item
+filter I-Item
+
+overhaul B-Activity
+water B-Item
+injection I-Item
+pump I-Item
+
+p[ipe O
+positioner B-Item
+switch I-Item
+r/s B-Location
+
+park B-Item
+brake I-Item
+will B-Observation
+not I-Observation
+hold I-Observation
+
+parrot B-Item
+beaks I-Item
+need B-Observation
+building B-Activity
+up. I-Activity
+
+pipe B-Item
+in B-Location
+hole B-Item
+alarm I-Item
+
+pipe B-Item
+support I-Item
+cups B-Item
+
+poasitioner B-Item
+arm I-Item
+cups B-Item
+npt B-Observation
+holding I-Observation
+
+positioner B-Item
+arm I-Item
+not B-Observation
+working I-Observation
+
+postioner B-Item
+arm I-Item
+not B-Observation
+working I-Observation
+
+pre-service B-Activity
+setup B-Activity
+
+purchace B-Activity
+85w140 O
+drybreak B-Item
+couplings I-Item
+
+purchace B-Activity
+85w140 O
+drybreak B-Item
+couplings I-Item
+
+quote B-Activity
+to I-Activity
+repair I-Activity
+main B-Specifier
+pump B-Item
+
+quote B-Activity
+to I-Activity
+repair I-Activity
+propel B-Item
+motor I-Item
+
+r/h B-Location
+upper I-Location
+loader B-Item
+cyl B-Item
+leaking B-Observation
+
+r/h/f B-Location
+engine B-Item
+mount B-Item
+bolts I-Item
+loose B-Observation
+
+radio B-Item
+falling B-Observation
+out I-Observation
+of I-Observation
+bracket B-Item
+
+rail B-Item
+staunchen I-Item
+broken B-Observation
+l/h B-Location
+crows B-Item
+nest I-Item
+
+reair B-Activity
+oil B-Consumable
+leaks B-Observation
+from B-Location
+under B-Location
+cylinder B-Item
+head I-Item
+
+reamer B-Item
+needs B-Observation
+replacing O
+or O
+removeing B-Activity
+
+rear B-Location
+cabin B-Item
+door I-Item
+requires B-Observation
+new B-Specifier
+rubber B-Item
+
+recharge B-Activity
+fire B-Item
+suppression I-Item
+
+refit B-Activity
+and O
+tighten B-Activity
+a/c B-Item
+mounting B-Item
+bolts I-Item
+
+refit B-Activity
+winch B-Item
+rope B-Item
+
+refurbish B-Activity
+operators O
+seat B-Item
+
+relace B-Activity
+manufacturer2 B-Agent
+drain B-Item
+hose I-Item
+
+relocate B-Activity
+hyd. B-Consumable
+filters I-Consumable
+to B-Location
+front I-Location
+of I-Location
+tank B-Item
+
+remove B-Activity
+- O
+refit B-Activity
+cab B-Item
+
+remove B-Activity
+link B-Item
+from O
+both B-Cardinality
+feed B-Item
+chain I-Item
+
+remove B-Activity
+rod B-Item
+so O
+they O
+can O
+change O
+bit B-Item
+
+repaint B-Activity
+drill B-Item
+
+repair B-Activity
+and O
+replace B-Activity
+comp. B-Item
+discharge B-Item
+hose I-Item
+
+repair B-Activity
+breakout B-Item
+fork I-Item
+cylinder B-Item
+on B-Location
+r/h B-Location
+
+repair B-Activity
+broken B-Observation
+pull B-Item
+down I-Item
+chains I-Item
+ITEM_ID O
+
+repair B-Activity
+cab B-Item
+e-stop B-Item
+"not B-Observation
+working" I-Observation
+
+repair B-Activity
+charging O
+
+repair B-Activity
+crack O
+in B-Location
+deck B-Item
+
+repair B-Activity
+crack O
+in B-Location
+l/h B-Location
+vertical B-Item
+lock I-Item
+
+repair B-Activity
+cracking B-Observation
+around B-Location
+cooler B-Item
+pack I-Item
+
+repair B-Activity
+cracking B-Observation
+in B-Location
+chassis B-Item
+
+repair B-Activity
+cracking B-Observation
+in B-Location
+track B-Item
+frames I-Item
+
+repair B-Activity
+cracks B-Observation
+as O
+per O
+ndt O
+report B-Activity
+
+repair B-Activity
+deck B-Item
+bush B-Item
+on O
+ITEM_ID O
+
+repair B-Activity
+dust B-Item
+curtain I-Item
+
+repair B-Activity
+dust B-Item
+shute I-Item
+rubbers B-Item
+
+repair B-Activity
+engine B-Item
+fire B-Item
+supression I-Item
+capillary B-Item
+
+repair B-Activity
+front B-Location
+lights B-Item
+
+repair B-Activity
+head B-Item
+speed B-Item
+gauge I-Item
+
+repair B-Activity
+hole B-Observation
+in O
+bull B-Item
+hose I-Item
+
+repair B-Activity
+hydraulic B-Consumable
+leak B-Observation
+up B-Location
+mast B-Item
+
+repair B-Activity
+leaking B-Observation
+a/c B-Item
+motor B-Item
+
+repair B-Activity
+light B-Item
+bracket B-Item
+
+repair B-Activity
+lube B-Item
+line I-Item
+on B-Location
+ITEM_ID O
+
+repair B-Activity
+mast B-Item
+safety B-Item
+rail I-Item
+
+repair B-Activity
+oil B-Consumable
+leak B-Observation
+on B-Location
+cylinder B-Item
+
+repair B-Activity
+oil B-Consumable
+leak B-Observation
+on B-Location
+hydraulic B-Item
+return I-Item
+hose I-Item
+
+repair B-Activity
+pin B-Item
+in B-Location
+pull B-Item
+down I-Item
+chain I-Item
+ITEM_ID O
+
+repair B-Activity
+to O
+auto B-Item
+fire I-Item
+supression I-Item
+
+repair B-Activity
+traveling O
+sheeve B-Item
+guide B-Item
+
+repair/replace B-Activity
+blown B-Observation
+hoses B-Item
+
+repaired B-Activity
+two B-Cardinality
+lights B-Item
+
+repairing B-Activity
+air B-Item
+blower I-Item
+on B-Location
+window B-Item
+
+repairs B-Activity
+to O
+brake B-Item
+out I-Item
+wrench B-Item
+
+repairs B-Activity
+to O
+breakout B-Item
+wrench I-Item
+
+repairs B-Activity
+to I-Activity
+positioner B-Item
+arm I-Item
+
+repairs B-Activity
+to O
+tool B-Item
+rench O
+
+repalce B-Activity
+alt. B-Item
+belts B-Item
+
+repalce B-Activity
+cylinder B-Item
+head I-Item
+
+replace B-Activity
+& O
+relocate B-Activity
+oil B-Consumable
+lube B-Item
+station I-Item
+
+replace B-Activity
+2 B-Cardinality
+x B-Cardinality
+lower B-Location
+bull B-Item
+hoses I-Item
+
+replace B-Activity
+3x B-Cardinality
+lights B-Item
+
+replace B-Activity
+a/c B-Item
+clutch B-Item
+
+replace B-Activity
+a/c B-Item
+comressor B-Item
+
+replace B-Activity
+a/c B-Item
+flow B-Item
+divider I-Item
+cartrigde B-Item
+
+replace B-Activity
+air B-Item
+seperator I-Item
+elements B-Item
+
+replace B-Activity
+air B-Item
+switch I-Item
+on B-Location
+rotation B-Item
+lever I-Item
+
+replace B-Activity
+all B-Cardinality
+cab B-Item
+blinds B-Item
+
+replace B-Activity
+all B-Cardinality
+injectors B-Item
+
+replace B-Activity
+alternator B-Item
+
+replace B-Activity
+alternator B-Item
+belts B-Item
+
+replace B-Activity
+battery's B-Item
+
+replace B-Activity
+batterys B-Item
+
+replace B-Activity
+blown B-Observation
+hyd B-Item
+hose I-Item
+
+replace B-Activity
+blown B-Observation
+hydraulic B-Item
+hose. I-Item
+
+replace B-Activity
+both B-Cardinality
+lower B-Location
+bull B-Item
+hoses I-Item
+
+replace B-Activity
+brushes B-Item
+in B-Location
+condensor B-Item
+fan B-Item
+motor I-Item
+
+replace B-Activity
+bull B-Item
+hose I-Item
+with O
+steel B-Item
+pipe I-Item
+
+replace B-Activity
+check B-Item
+valve I-Item
+seal B-Item
+kits I-Item
+
+replace B-Activity
+compressor B-Item
+cooler B-Item
+fan I-Item
+hoses B-Item
+
+replace B-Activity
+compressor B-Item
+discharge B-Item
+hose I-Item
+
+replace B-Activity
+compressor B-Item
+oil B-Consumable
+
+replace B-Activity
+deck B-Item
+bush B-Item
+retaining B-Item
+plate I-Item
+
+replace B-Activity
+drill B-Item
+steel I-Item
+in B-Location
+rack B-Item
+
+replace B-Activity
+engine B-Item
+outer B-Location
+air O
+filters I-Consumable
+
+replace B-Activity
+faulty B-Observation
+circuit B-Item
+breaker I-Item
+
+replace B-Activity
+feed B-Item
+and O
+hoist B-Item
+ropes I-Item
+
+replace B-Activity
+feed B-Item
+pipe I-Item
+
+replace B-Activity
+feed B-Item
+pressure I-Item
+gauge I-Item
+
+replace B-Activity
+feed B-Item
+pump I-Item
+inlet B-Item
+seals I-Item
+
+replace B-Activity
+feed B-Item
+pump I-Item
+shaft B-Item
+seal B-Item
+
+replace B-Activity
+feed B-Item
+pump I-Item
+stroker B-Item
+plate I-Item
+
+replace B-Activity
+front B-Location
+driveshaft B-Item
+adaptor B-Item
+lock I-Item
+
+replace B-Activity
+fuel B-Item
+inj. I-Item
+pump. B-Item
+mid O
+life O
+1.7.3 B-Time
+
+replace B-Activity
+head B-Item
+packing B-Item
+
+replace B-Activity
+head B-Item
+sub B-Item
+on B-Location
+ITEM_ID O
+
+replace B-Activity
+hyd B-Item
+oil I-Item
+cooler B-Item
+
+replace B-Activity
+hyd. B-Item
+holding I-Item
+valves I-Item
+
+replace B-Activity
+hyd. B-Item
+return O
+filters O
+
+replace B-Activity
+ignition B-Item
+switch I-Item
+
+replace B-Activity
+l/h B-Location
+lower I-Location
+feed B-Item
+sprocket I-Item
+
+replace B-Activity
+l/h B-Location
+rear I-Location
+jack B-Item
+control B-Item
+
+replace B-Activity
+l/h/s B-Location
+top B-Location
+carrier B-Item
+sprocket B-Item
+
+replace B-Activity
+leaking B-Observation
+fuel B-Item
+filter I-Item
+
+replace B-Activity
+lh B-Location
+propel B-Item
+control B-Item
+
+replace B-Activity
+load B-Item
+rollers. I-Item
+
+replace B-Activity
+lower B-Location
+bull B-Item
+hose I-Item
+safety B-Item
+rope I-Item
+
+replace B-Activity
+main B-Specifier
+airline B-Item
+check B-Item
+valve I-Item
+
+replace B-Activity
+main B-Specifier
+cab B-Item
+window B-Item
+
+replace B-Activity
+mast B-Item
+flexible B-Item
+bull I-Item
+hose I-Item
+
+replace B-Activity
+mast B-Item
+raise B-Item
+controller I-Item
+
+replace B-Activity
+minimum B-Item
+pressure I-Item
+valve I-Item
+
+replace B-Activity
+missing B-Observation
+grouser B-Item
+plate I-Item
+bolts B-Consumable
+
+replace B-Activity
+missing B-Observation
+r/h B-Location
+head B-Item
+slide I-Item
+
+replace B-Activity
+missing B-Observation
+rocker B-Item
+switch I-Item
+
+replace B-Activity
+o-ring B-Item
+in B-Location
+valve B-Item
+
+replace B-Activity
+oil B-Consumable
+& O
+air B-Item
+hoses I-Item
+as O
+req. O
+
+replace B-Activity
+pipe B-Item
+positioner I-Item
+cups B-Item
+
+replace B-Activity
+power B-Item
+step I-Item
+lower B-Location
+solenoid B-Item
+
+replace B-Activity
+primer B-Item
+pump I-Item
+
+replace B-Activity
+r/h B-Location
+comp/hyd B-Item
+cooler B-Item
+fan I-Item
+
+replace B-Activity
+r/h B-Location
+mast B-Item
+lock B-Item
+cylinder I-Item
+
+replace B-Activity
+r/h B-Location
+mast B-Item
+locking B-Item
+cyl I-Item
+
+replace B-Activity
+rear B-Location
+acc. B-Item
+pump I-Item
+face I-Item
+oring B-Observation
+
+replace B-Activity
+return B-Item
+filter I-Item
+lid B-Item
+studs B-Item
+
+replace B-Activity
+rotry B-Item
+head I-Item
+oil B-Consumable
+
+replace B-Activity
+rubber B-Item
+intake I-Item
+hoses B-Item
+
+replace B-Activity
+shaft B-Item
+front B-Location
+uni B-Item
+u/s B-Observation
+
+replace B-Activity
+short B-Observation
+bull B-Item
+hose I-Item
+
+replace B-Activity
+slew B-Item
+brgs B-Item
+on B-Location
+front I-Location
+palfinger B-Item
+
+replace B-Activity
+staple B-Item
+lock I-Item
+on B-Location
+tool B-Item
+wrench I-Item
+
+replace B-Activity
+tappet B-Item
+cover B-Item
+gaskets I-Item
+
+replace B-Activity
+top B-Location
+viewing B-Item
+window I-Item
+
+replace B-Activity
+track B-Item
+grousers B-Item
+bolts B-Consumable
+
+replace B-Activity
+turbo B-Item
+accumulator- O
+engine B-Item
+line I-Item
+
+replace B-Activity
+turbo B-Item
+oil B-Consumable
+feed B-Item
+line I-Item
+
+replace B-Activity
+water B-Item
+tank I-Item
+rear B-Location
+support B-Item
+beam I-Item
+
+replace/rotate B-Activity
+sub B-Item
+saver I-Item
+
+replaced B-Activity
+starter B-Item
+motor I-Item
+
+replaced B-Activity
+500w B-Cardinality
+self B-Item
+ballast I-Item
+lamps B-Item
+
+replaced B-Activity
+a/c B-Item
+filter B-Item
+
+replaced B-Activity
+dies B-Item
+on B-Location
+breakout B-Item
+wrench. I-Item
+
+replaced B-Activity
+evaporator B-Item
+fan I-Item
+brushes B-Item
+
+replaced B-Activity
+light B-Item
+out B-Observation
+on B-Location
+mast B-Item
+
+reposition B-Activity
+propell B-Item
+valves I-Item
+
+reposition B-Activity
+winch B-Item
+control B-Item
+switch I-Item
+
+reposition B-Activity
+winch B-Item
+switch B-Item
+
+requires B-Observation
+new B-Specifier
+deck B-Item
+pin B-Item
+bush B-Item
+
+reseal B-Activity
+holding B-Item
+valve I-Item
+
+reseal B-Activity
+r/h B-Location
+propel B-Item
+pump I-Item
+adaptor B-Item
+
+reset B-Activity
+c/b B-Item
+for O
+inverter B-Item
+
+reset B-Activity
+hold B-Item
+down I-Item
+valve I-Item
+relief B-Item
+press I-Item
+
+reset B-Activity
+lights B-Item
+
+review B-Activity
+pmo2000 O
+sheets B-Item
+for O
+ITEM_ID O
+
+reweld B-Activity
+slap B-Item
+wrench I-Item
+stop B-Item
+
+rewire B-Activity
+access B-Item
+steps I-Item
+
+rewire B-Activity
+machine B-Item
+
+rod B-Item
+soupert I-Item
+cups B-Item
+
+rod B-Item
+support I-Item
+arm B-Item
+creeping B-Observation
+in I-Observation
+
+rollers B-Item
+no O
+3/5 B-Time
+on B-Location
+r/h/s B-Location
+u/s B-Observation
+
+rollers B-Item
+on B-Location
+the O
+way B-Item
+out I-Observation
+
+rotary B-Item
+head I-Item
+seal B-Item
+leaking B-Observation
+
+rotate/replace B-Activity
+box B-Item
+sub B-Item
+
+rotation B-Item
+controller I-Item
+needs B-Observation
+adjusting. I-Observation
+
+rotation B-Item
+hyd I-Item
+pipe I-Item
+cracked B-Observation
+on B-Location
+mast B-Item
+
+scope B-Activity
+to O
+replace B-Activity
+mast B-Item
+pedistal B-Item
+
+scv B-Agent
+ITEM_ID O
+repairs B-Activity
+
+scv B-Agent
+ITEM_ID O
+repairs B-Activity
+10/2/2006 B-Time
+
+scv B-Agent
+ITEM_ID O
+repairs B-Activity
+10/3/06 B-Time
+
+scv B-Agent
+ITEM_ID O
+repairs B-Activity
+11/2/2006 B-Time
+
+scv B-Agent
+ITEM_ID O
+repairs B-Activity
+8/2/2006 B-Time
+
+scv B-Agent
+NA O
+repairs B-Activity
+08/03/06 B-Time
+
+service B-Activity
+machine B-Item
+
+shackle B-Item
+missing B-Observation
+onsafety B-Item
+chain I-Item
+on B-Location
+bull B-Item
+h I-Location
+
+shorten B-Activity
+head B-Item
+slide I-Item
+adjustind B-Item
+bolts I-Item
+
+shut B-Activity
+down I-Activity
+measurement B-Attribute
+of O
+cabin B-Item
+
+shut B-Activity
+down B-Item
+system I-Item
+not B-Observation
+working I-Observation
+
+shuting O
+down O
+on B-Location
+comp B-Item
+oil B-Consumable
+temp B-Item
+
+sometimes O
+head B-Item
+takes B-Observation
+off I-Observation
+up I-Observation
+at B-Location
+full I-Observation
+spee O
+
+stem B-Item
+b O
+177 O
+slightly O
+bent B-Observation
+
+stem B-Item
+locked B-Observation
+up I-Observation
+
+step B-Item
+indicator I-Item
+not B-Observation
+working I-Observation
+
+straighten B-Activity
+sheave B-Item
+carrier B-Item
+rope I-Item
+guides B-Item
+
+sub B-Item
+getting B-Observation
+close I-Observation
+to O
+changing O
+
+supply B-Activity
+lanotec B-Item
+chain B-Item
+lube I-Item
+
+tap B-Item
+leaking B-Observation
+on B-Location
+compressor B-Item
+tank I-Item
+
+test B-Activity
+park B-Item
+brake I-Item
+
+thread B-Item
+lube I-Item
+gasket B-Item
+blown B-Observation
+
+thread/bit B-Item
+lube I-Item
+not B-Observation
+working I-Observation
+
+thred B-Specifier
+lube B-Item
+pump I-Item
+not B-Observation
+working I-Observation
+
+tighten B-Activity
+front B-Location
+engine B-Item
+bolts B-Consumable
+
+tighten B-Activity
+loose B-Observation
+turbo B-Item
+exhaust I-Item
+clamp B-Item
+
+timing B-Item
+bar I-Item
+misaligned B-Observation
+
+tune B-Activity
+engine B-Item
+
+upgrade B-Activity
+chubb B-Item
+fire B-Item
+suppression I-Item
+system I-Item
+
+upgrade B-Activity
+chubb B-Item
+fire B-Item
+supprression I-Item
+system B-Item
+
+wash B-Item
+& O
+clean B-Activity
+inlet B-Item
+filter I-Item
+housing B-Item
+
+wash B-Item
+& O
+clean B-Activity
+inltake B-Item
+filter B-Item
+housing I-Item
+
+water B-Item
+injection I-Item
+system I-Item
+not B-Observation
+working I-Observation
+
+water B-Item
+injection I-Item
+hose I-Item
+u/s B-Observation
+
+water B-Item
+injection I-Item
+pump I-Item
+not B-Observation
+working I-Observation
+
+water B-Item
+trap I-Item
+req'd O
+for O
+thread B-Item
+lube I-Item
+pump I-Item
+
+weekly B-Agent
+inspection B-Activity
+NA O
+
+weekly B-Agent
+inspection B-Activity
+to O
+be O
+done O
+22-08-01 B-Time
+
+weekly B-Agent
+inspection B-Activity
+to O
+be O
+done O
+on O
+20-08-01 B-Time
+
+weld B-Activity
+bracket B-Item
+
+weld B-Activity
+cracked B-Observation
+hyd B-Item
+pipe I-Item
+
+window B-Item
+washer/wyper B-Item
+repairs B-Activity
+
+won"t B-Observation
+start I-Observation
+
+working B-Activity
+air B-Item
+presure I-Item
+
+zac's B-Agent
+ITEM_ID O
+signs B-Item
+

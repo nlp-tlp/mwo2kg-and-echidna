@@ -1,0 +1,501 @@
+WO_Type,PONumber,Work_Order_Basic_Start_Date,ACtStartDate,ShortText,WorkCentre,Work_Order_Functional_Location,Functional_Location_Sort_Field,Functional_Location_Description,UserStatus,SystemStatus,Actual,PInt,SiteID,AssetID,Duplicate,AssetFuncLoc,Inscope,Exclusions,Exclusion,SiteName,Priority,TotalCost,Work_Order_Type,Work_Order_Total_Actual_Cost
+PM01,2374,13/09/2001,0/1/00,1000 hr mechanical and lube service,WC1,1234.01.01,EXAMPLE_LOCATION,manufacturer6 - NA overburden drill,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,200
+PM01,2255,28/02/2006,0/1/00,2 lights out on machine,WC1,1234.01.02,EXAMPLE_LOCATION,lights & power,Removed,Removed,100,PI1,SID1,AID8,Removed,8,Removed,Removed,FALSE,Removed,,,Y,300
+PM01,2079,22/02/2006,22/02/2006,3 x 240 volt lights out,WC1,1234.01.03,EXAMPLE_LOCATION,lights & power,Removed,Removed,689,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,400
+PM01,2043,18/02/2006,18/02/2006,ITEM_ID compressor oil requires top up,WC1,1234.01.04,EXAMPLE_LOCATION,compressor unit,Removed,Removed,263,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,500
+PM01,2155,24/02/2006,0/1/00,ITEM_ID inspection 29/12 eme4489,WC1,1234.01.05,EXAMPLE_LOCATION,manufacturer6 - NA overburden drill,Removed,Removed,767,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,600
+PM01,2509,29/03/2006,31/03/2006,ITEM_ID mechancial service 4 wk/500 hr,WC1,1234.01.06,EXAMPLE_LOCATION,drill truck mechanical  NA NA,Removed,Removed,680,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Z,700
+PM01,2346,10/03/2006,10/03/2006,ITEM_ID not tramming,WC1,1234.01.07,EXAMPLE_LOCATION,hydraulics,Removed,Removed,431,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,800
+PM01,2275,6/03/2006,0/1/00,ITEM_ID pre service setup,WC1,1234.01.08,EXAMPLE_LOCATION,drill truck mechanical  model1 NA,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,900
+PM01,2336,14/03/2006,14/03/2006,ITEM_ID pre-service setup,WC1,1234.01.09,EXAMPLE_LOCATION,manufacturer6 - NA overburden drill,Removed,Removed,575,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,1000
+PM01,2401,21/03/2006,13/04/2006,ITEM_ID pre-service setup,WC1,1234.01.10,EXAMPLE_LOCATION,drill truck mechanical  NA NA,Removed,Removed,288,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,1100
+PM01,2192,17/08/2001,15/08/2001,access audit repairs,WC1,1234.01.11,EXAMPLE_LOCATION,manufacturer6 - d40ksl overburden drill,Removed,Removed,300,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,1200
+PM01,2251,8/03/2006,0/1/00,adjust rotary head guides,WC1,1234.01.12,EXAMPLE_LOCATION,rotary guide frame,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,1300
+PM01,2145,24/02/2006,0/1/00,air /con very noisy,WC1,1234.01.13,EXAMPLE_LOCATION,air conditioning system,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,1400
+PM01,2332,9/03/2006,9/03/2006,air cond compressor,WC1,1234.01.14,EXAMPLE_LOCATION,a/c compressor,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,1500
+PM01,2407,17/08/2001,17/08/2001,air cond. working intermittently.,WC1,1234.01.15,EXAMPLE_LOCATION,other systems,Removed,Removed,251,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,1600
+PM01,2146,24/02/2006,0/1/00,air leak around rotary head,WC1,1234.01.16,EXAMPLE_LOCATION,mast,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,1700
+PM01,2435,19/03/2006,0/1/00,air valve not shutting off,WC1,1234.01.17,EXAMPLE_LOCATION,air system controls,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,1800
+PM01,2220,27/02/2006,27/02/2006,alternator r/s,WC1,1234.01.18,EXAMPLE_LOCATION,electrical cables/controls,Removed,Removed,215,PI1,SID1,AID8,Removed,8,Removed,Removed,FALSE,Removed,,,Z,1900
+PM01,2210,12/08/2001,12/08/2001,audible alarm on softly at all times,WC2,1234.01.19,EXAMPLE_LOCATION,#NAME?,Removed,Removed,600,PI1,SID1,AID4,Removed,4,Removed,Removed,FALSE,Removed,,,X,2000
+PM01,2331,29/03/2006,0/1/00,auto level device reading backwards,WC1,1234.01.20,EXAMPLE_LOCATION,electrical,Removed,Removed,0,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Y,2100
+PM01,2317,16/03/2006,0/1/00,autosparks NA 08/03/06,WC1,1234.02.01,EXAMPLE_LOCATION,electrical cables/controls,Removed,Removed,NA,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,2200
+PM01,2370,14/03/2006,14/03/2006,bad vibration,WC1,1234.02.02,EXAMPLE_LOCATION,engine,Removed,Removed,863,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,2300
+PM01,2173,8/08/2001,16/08/2001,bent hand rail at back cabin door,WC1,1234.02.03,EXAMPLE_LOCATION,handrails,Removed,Removed,180,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,2400
+PM01,2205,11/08/2001,11/08/2001,blow hose,WC1,1234.02.04,EXAMPLE_LOCATION,hydraulics,Removed,Removed,NA,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,2500
+PM01,2212,13/08/2001,13/08/2001,book out filters,WC1,1234.02.05,EXAMPLE_LOCATION,engine,Removed,Removed,147,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,2600
+PM01,2151,1/10/2001,0/1/00,both rear jacks leaking oil,WC1,1234.02.06,EXAMPLE_LOCATION,levelling jack cylinders,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,2700
+PM01,2272,2/03/2006,3/03/2006,break out u/s,WC1,1234.02.07,EXAMPLE_LOCATION,breakout wrench,Removed,Removed,431,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,2800
+PM01,2144,24/02/2006,0/1/00,breakout fork cylinder - rework,WC1,1234.02.08,EXAMPLE_LOCATION,breakout fork cylinder right,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,2900
+PM01,2404,17/08/2001,17/08/2001,broken control connection.,WC1,1234.02.09,EXAMPLE_LOCATION,water injection system,Removed,Removed,240,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,3000
+PM01,1986,8/03/2006,16/02/2006,broken go switch r/h mast lock   .the in,WC1,1234.02.10,EXAMPLE_LOCATION,mast locking cylinder right,Removed,Removed,351,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,3100
+PM01,2249,8/03/2006,0/1/00,broken handraill/h/s crows nest,WC1,1234.02.11,EXAMPLE_LOCATION,access stairs,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,3200
+PM01,2246,28/02/2006,0/1/00,broken hose on cylinder,WC1,1234.02.12,EXAMPLE_LOCATION,power wrench breakout cylinder,Removed,Removed,0,PI1,SID1,AID8,Removed,8,Removed,Removed,FALSE,Removed,,,Y,3300
+PM01,2261,1/03/2006,0/1/00,broken l/h pulldown chain,WC1,1234.02.13,EXAMPLE_LOCATION,chain feed lh pulldown,Removed,Removed,42,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,3400
+PM01,2421,17/03/2006,0/1/00,broken locking pin,WC1,1234.02.14,EXAMPLE_LOCATION,mast lock cylinder - right,Removed,Removed,141,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,3500
+PM01,2391,20/08/2001,17/08/2001,broken tool wrench holding cylinder.,WC1,1234.02.15,EXAMPLE_LOCATION,tool wrench cylinder,Removed,Removed,NA,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,3600
+PM01,2029,8/03/2006,0/1/00,build up rod support beak,WC1,1234.02.16,EXAMPLE_LOCATION,rod support assembly,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,3700
+PM01,2167,25/02/2006,0/1/00,bull hose air leak.,WC1,1234.02.17,EXAMPLE_LOCATION,mast,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,3800
+PM01,2166,25/02/2006,25/02/2006,bull hose split,WC1,1234.02.18,EXAMPLE_LOCATION,mast bull hose,Removed,Removed,175,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,3900
+PM01,2356,12/03/2006,0/1/00,busted hydraulic hose,WC1,1234.02.19,EXAMPLE_LOCATION,levelling jack cylinders,Removed,Removed,0,PI1,SID1,AID8,Removed,8,Removed,Removed,FALSE,Removed,,,Z,4000
+PM01,2373,14/03/2006,0/1/00,c spanner for minning,WC1,1234.02.20,EXAMPLE_LOCATION,drill tools,Removed,Removed,190,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,X,4100
+PM01,2018,6/08/2001,7/08/2001,c/b6 tripping e/l.,WC1,1234.02.21,EXAMPLE_LOCATION,415v lighting & power,Removed,Removed,360,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,4200
+PM01,2360,13/03/2006,0/1/00,cab interior light not working,WC1,1234.02.22,EXAMPLE_LOCATION,operators cabin,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,4300
+PM01,2459,1/11/2007,0/1/00,capital     test cab,WC1,1234.02.23,EXAMPLE_LOCATION,operators cabin,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,4400
+PM01,2483,1/11/2007,0/1/00,capital    fit hyd. drive to a/c compres,WC1,1234.02.24,EXAMPLE_LOCATION,a/c compressor,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,4500
+PM01,2463,1/11/2007,0/1/00,capital    move cab door as per drawings,WC1,1234.02.25,EXAMPLE_LOCATION,operators cabin,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,4600
+PM01,2473,31/12/2006,0/1/00,capital   engine protection hood,WC1,1234.02.26,EXAMPLE_LOCATION,engine,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,4700
+PM01,2471,1/11/2007,0/1/00,capital   fit larger sumpmachine shut do,WC1,1234.02.27,EXAMPLE_LOCATION,lubrication system,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,4800
+PM01,2467,1/11/2007,0/1/00,capital   fit walk way to rhs of mast,WC1,1234.02.28,EXAMPLE_LOCATION,mast,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,4900
+PM01,2466,1/11/2007,0/1/00,capital   install mesh in mast,WC1,1234.02.29,EXAMPLE_LOCATION,mast,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,5000
+PM01,2472,31/12/2006,0/1/00,capital   turbo & ex manifold guards.,WC1,1234.02.30,EXAMPLE_LOCATION,induction & exhaust system,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,5100
+PM01,2465,1/11/2007,0/1/00,capital  install access sys.,WC1,1234.02.31,EXAMPLE_LOCATION,access stairs,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,5200
+PM01,2469,1/11/2007,0/1/00,capital  modify  w/ways around eng.,WC1,1234.02.32,EXAMPLE_LOCATION,vehicle body,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,5300
+PM01,2448,1/11/2007,0/1/00,capital- chubb o/haul fire sys.,WC1,1234.02.33,EXAMPLE_LOCATION,fire suppression system,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,5400
+PM01,2046,18/02/2006,0/1/00,carousel not actioning to postion steels,WC1,1234.02.34,EXAMPLE_LOCATION,hydraulics,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,5500
+PM01,2070,22/02/2006,0/1/00,case-drain leaking,WC1,1234.02.35,EXAMPLE_LOCATION,hydraulic pump - left propel,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,5600
+PM01,2270,13/03/2006,0/1/00,cci, routine ndt inspection,1234.02.36,EXAMPLE_LOCATION,FL16,drill truck mechanical  model1 NA,Removed,Removed,NA,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,Y,5700
+PM01,2309,6/03/2006,0/1/00,chaine oiler no working,WC1,1234.02.37,EXAMPLE_LOCATION,drill truck mechanical  NA NA,Removed,Removed,0,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Z,5800
+PM01,2091,22/02/2006,0/1/00,change cyclinder.,WC1,1234.02.38,EXAMPLE_LOCATION,breakout fork cylinder right,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,5900
+PM01,2172,8/08/2001,0/1/00,change out cyl,WC1,1234.02.39,EXAMPLE_LOCATION,slide loader cylinder - upper right,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,6000
+PM01,2392,16/03/2006,0/1/00,change out deck seal,WC1,1234.02.40,EXAMPLE_LOCATION,drill tools,Removed,Removed,685,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,6100
+PM01,2514,20/08/2001,20/08/2001,change out lube pump,WC1,1234.01.01,EXAMPLE_LOCATION,pumping systems,Removed,Removed,180,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,6200
+PM01,2358,12/03/2006,0/1/00,changeout compressor drive shaft,WC1,1234.01.02,EXAMPLE_LOCATION,pump drive transmission,Removed,Removed,612,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,6300
+PM01,2502,29/03/2006,0/1/00,check and repair exhaust leaks,WC1,1234.01.03,EXAMPLE_LOCATION,induction & exhaust system,Removed,Removed,25,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Z,6400
+PM01,2316,3/05/2006,3/05/2006,check drill water level sensor,WC1,1234.01.04,EXAMPLE_LOCATION,electrical cables/controls,Removed,Removed,309,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,6500
+PM01,2063,22/02/2006,25/02/2006,check feed system control,WC1,1234.01.05,EXAMPLE_LOCATION,pumps/valves/control,Removed,Removed,263,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,6600
+PM01,1995,14/02/2006,14/02/2006,check fire alarm,WC1,1234.01.06,EXAMPLE_LOCATION,fire suppression system,Removed,Removed,703,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,6700
+PM01,1990,14/02/2006,0/1/00,check hyd. return filters for debris,WC1,1234.01.07,EXAMPLE_LOCATION,hydraulics,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,6800
+PM01,2080,28/02/2006,0/1/00,check oil leak at rotary head,WC1,1234.01.08,EXAMPLE_LOCATION,rotary head gearbox,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,6900
+PM01,2501,24/03/2006,25/03/2006,clean out chain lube canister,WC1,1234.01.09,EXAMPLE_LOCATION,grease lube system,Removed,Removed,875,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Z,7000
+PM01,2209,12/08/2001,12/08/2001,comp high air tenp,WC1,1234.01.10,EXAMPLE_LOCATION,electrical,Removed,Removed,240,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,7100
+PM01,2486,1/11/2007,0/1/00,comp. air tune at end of s/down,WC1,1234.01.11,EXAMPLE_LOCATION,air compressor system,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,7200
+PM01,1998,17/02/2006,0/1/00,complete 1000 hr mechenical inspect.,WC1,1234.01.12,EXAMPLE_LOCATION,manufacturer6 - d40ksl overburden drill,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,7300
+PM01,2434,19/03/2006,18/03/2006,complete parts listing for shutdown,WC1,1234.01.13,EXAMPLE_LOCATION,manufacturer6 - d40ksl overburden drill,Removed,Removed,NA,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,7400
+PM01,2422,18/03/2006,0/1/00,compresor over temp fault,WC1,1234.01.14,EXAMPLE_LOCATION,air compressor system,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,7500
+PM01,2397,1/11/2007,0/1/00,compressor control repairs,WC1,1234.01.15,EXAMPLE_LOCATION,air compressor system,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,7600
+PM01,2289,4/03/2006,0/1/00,compressor no air,WC1,1234.01.16,EXAMPLE_LOCATION,air compressor system,Removed,Removed,0,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,X,7700
+PM01,2440,20/03/2006,0/1/00,compressor oil low lube alarm,WC1,1234.01.17,EXAMPLE_LOCATION,air compressor system,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,7800
+PM01,2286,3/03/2006,4/03/2006,compressor oil low pressure fault,WC1,1234.01.18,EXAMPLE_LOCATION,oil - compressor,Removed,Removed,431,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,7900
+PM01,2305,6/03/2006,6/03/2006,compressor over temp,WC1,1234.01.19,EXAMPLE_LOCATION,air compressor system,Removed,Removed,575,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,8000
+PM01,2034,17/02/2006,18/02/2006,control panel alarms not working,WC1,1234.01.20,EXAMPLE_LOCATION,electrical cables/controls,Removed,Removed,NA,PI1,SID1,AID8,Removed,8,Removed,Removed,FALSE,Removed,,,Y,8100
+PM01,1982,10/03/2006,0/1/00,coolant leak around coolant sensor,WC1,1234.02.01,EXAMPLE_LOCATION,coolant,Removed,Removed,138,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,8200
+PM01,2169,8/08/2001,0/1/00,counter looses track of depth,WC1,1234.02.02,EXAMPLE_LOCATION,drill monitor systems panel,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,8300
+PM01,2069,22/02/2006,0/1/00,crack in chassis,WC1,1234.02.03,EXAMPLE_LOCATION,vehicle body,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,8400
+PM01,2515,5/04/2006,0/1/00,crack in l/h top side handrail,WC1,1234.02.04,EXAMPLE_LOCATION,handrails,Removed,Removed,11,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,8500
+PM01,2197,26/02/2006,26/02/2006,crack in pipe near holding valve,WC1,1234.02.05,EXAMPLE_LOCATION,hydraulic hoses & lines,Removed,Removed,287,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,8600
+PM01,2452,1/11/2007,0/1/00,crack test & repair fuel tanks,WC1,1234.02.06,EXAMPLE_LOCATION,fuel tank,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,8700
+PM01,2068,22/02/2006,0/1/00,cracked mast-lh outer,WC1,1234.02.07,EXAMPLE_LOCATION,mast,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,8800
+PM01,2369,22/03/2006,0/1/00,cracks in radiator chassis mounting,WC1,1234.02.08,EXAMPLE_LOCATION,main frame,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,8900
+PM01,2047,18/02/2006,18/02/2006,crane & truck drill steel to ITEM_ID,WC1,1234.02.09,EXAMPLE_LOCATION,manufacturer6 - NA overburden drill,Removed,Removed,659,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,9000
+PM01,2475,1/11/2007,0/1/00,cwpope to test seperator housing,WC1,1234.02.10,EXAMPLE_LOCATION,air/oil separator,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,9100
+PM01,2489,21/03/2006,0/1/00,damaged electrical cable on ITEM_ID,WC1,1234.02.11,EXAMPLE_LOCATION,electrical cables/controls,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,9200
+PM01,2056,19/02/2006,19/02/2006,dead man switch not working.,WC1,1234.02.12,EXAMPLE_LOCATION,electrical cables/controls,Removed,Removed,351,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,9300
+PM01,2256,1/03/2006,0/1/00,deck bush needs replacing ITEM_ID,WC1,1234.02.13,EXAMPLE_LOCATION,deck,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,9400
+PM01,2050,19/02/2006,19/02/2006,deck bush woren,WC1,1234.02.14,EXAMPLE_LOCATION,deck,Removed,Removed,351,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,9500
+PM01,2415,16/03/2006,0/1/00,deck cylinders creeping  valve u/s,WC1,1234.02.15,EXAMPLE_LOCATION,work deck cylinders,Removed,Removed,947,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,9600
+PM01,2412,16/03/2006,0/1/00,deck falling down,WC1,1234.02.16,EXAMPLE_LOCATION,deck,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,9700
+PM01,2427,18/03/2006,0/1/00,deck seal,WC1,1234.02.17,EXAMPLE_LOCATION,deck assembly,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,9800
+PM01,2123,28/02/2006,28/02/2006,def. check cab dust entry,WC1,1234.02.18,EXAMPLE_LOCATION,operators cabin,Removed,Removed,143,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,9900
+PM01,2124,28/02/2006,0/1/00,def. check coolant flow switch,WC1,1234.02.19,EXAMPLE_LOCATION,electrical cables/controls,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,10000
+PM01,2116,25/02/2006,0/1/00,def. replace deck seal,WC1,1234.02.20,EXAMPLE_LOCATION,deck assembly,Removed,Removed,685,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,10100
+PM01,2115,8/03/2006,8/03/2006,def. replace deck shute rubbers,WC1,1234.02.21,EXAMPLE_LOCATION,deck assembly,Removed,Removed,NA,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,10200
+PM01,2280,5/04/2006,6/04/2006,def.carosuel lower roller u/s,WC1,1234.02.22,EXAMPLE_LOCATION,carousel pivot post assembly,Removed,Removed,255,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,10300
+PM01,2117,8/03/2006,25/02/2006,def.check and repair pipe support limits,WC1,1234.02.23,EXAMPLE_LOCATION,pipe positioner arm,Removed,Removed,NA,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,10400
+PM01,2119,25/02/2006,0/1/00,def.check engine oil leak,WC1,1234.02.24,EXAMPLE_LOCATION,engine lubrication system,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,10500
+PM01,2277,18/03/2006,17/03/2006,def.check feed and rotation pressure,WC1,1234.02.25,EXAMPLE_LOCATION,pumps/valves/controls,Removed,Removed,143,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,10600
+PM01,2122,28/02/2006,0/1/00,def.check head creep,WC1,1234.02.26,EXAMPLE_LOCATION,hydraulics,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,10700
+PM01,2276,4/03/2006,0/1/00,def.check mast pins for play,WC1,1234.02.27,EXAMPLE_LOCATION,mast,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,10800
+PM01,2127,28/02/2006,28/02/2006,def.check water injection hose onto head,WC1,1234.02.28,EXAMPLE_LOCATION,water injection system,Removed,Removed,143,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,10900
+PM01,2125,21/03/2006,0/1/00,def.compressor receiver tap leaking,WC1,1234.02.29,EXAMPLE_LOCATION,air tank,Removed,Removed,49,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,11000
+PM01,2118,4/03/2006,0/1/00,def.fluro light in cab not working,WC1,1234.02.30,EXAMPLE_LOCATION,24v lighting,Removed,Removed,11,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,11100
+PM01,2121,25/02/2006,0/1/00,def.light shinning up to head out,WC1,1234.02.31,EXAMPLE_LOCATION,24v lighting,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,11200
+PM01,2278,22/03/2006,22/03/2006,def.off side camera not working,WC1,1234.02.32,EXAMPLE_LOCATION,communications,Removed,Removed,NA,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,11300
+PM01,2281,4/03/2006,0/1/00,def.one driveshaft nipple wont tak greas,WC1,1234.02.33,EXAMPLE_LOCATION,hydraulic pump drive shaft,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,11400
+PM01,2279,19/04/2006,0/1/00,def.pipe support arm worn through,WC1,1234.02.34,EXAMPLE_LOCATION,pipe positioner arm,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,11500
+PM01,2126,15/03/2006,0/1/00,def.tap on potable water inlet leaking,WC1,1234.02.35,EXAMPLE_LOCATION,pumping systems,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,11600
+PM01,2131,24/02/2006,24/02/2006,discon gene from shutdown pad.,WC1,1234.02.36,EXAMPLE_LOCATION,electrical,Removed,Removed,351,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Y,11700
+PM01,2110,8/08/2001,0/1/00,door latch repair,WC2,1234.02.37,EXAMPLE_LOCATION,#NAME?,Removed,Removed,0,PI1,SID1,AID3,Removed,3,Removed,Removed,FALSE,Removed,,,Z,11800
+PM01,2505,24/05/2006,0/1/00,doors seals not sealing at top of doors,WC1,1234.02.38,EXAMPLE_LOCATION,operators cabin,Removed,Removed,0,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,X,11900
+PM01,2347,16/08/2001,16/08/2001,drill bit repairs,WC2,1234.02.39,EXAMPLE_LOCATION,#NAME?,Removed,Removed,745,PI1,SID1,AID3,Removed,3,Removed,Removed,FALSE,Removed,,,Y,12000
+PM01,2507,23/04/2006,0/1/00,drill tracking to the left,WC1,1234.02.40,EXAMPLE_LOCATION,electrical cables/controls,Removed,Removed,0,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Z,12100
+PM01,2236,28/02/2006,28/02/2006,drill will not tram,WC1,1234.01.01,EXAMPLE_LOCATION,final drive assemblies,Removed,Removed,503,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,12200
+PM01,2107,8/08/2001,0/1/00,drillpro. o/haul 8 mast index cylinders.,WC1,1234.01.02,EXAMPLE_LOCATION,motors & cylinders,Removed,Removed,NA,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,12300
+PM01,2071,7/08/2001,0/1/00,drillpro. o/haul air on/off cylinder.,WC1,1234.01.03,EXAMPLE_LOCATION,manufacturer6 - d40ksl overburden drill,Removed,Removed,338,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,12400
+PM01,2040,7/08/2001,0/1/00,drillpro. o/haul lh mast lift cylinder.,WC1,1234.01.04,EXAMPLE_LOCATION,mast raise cylinder - left,Removed,Removed,NA,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,12500
+PM01,2048,7/08/2001,0/1/00,drillpro. o/haul lhs feed cylinder.,WC1,1234.01.05,EXAMPLE_LOCATION,mast feed cylinder - left,Removed,Removed,NA,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,12600
+PM01,2066,7/08/2001,0/1/00,drillpro. o/haul lock cylinder.,WC1,1234.01.06,EXAMPLE_LOCATION,carousel load/swing lower cylinder,Removed,Removed,338,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,12700
+PM01,2064,7/08/2001,0/1/00,drillpro. o/haul rhs feed cylinder.,WC1,1234.01.07,EXAMPLE_LOCATION,mast feed cylinder - right,Removed,Removed,NA,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,12800
+PM01,2409,16/03/2006,16/03/2006,drive train vibration & noise  found alt,WC1,1234.01.08,EXAMPLE_LOCATION,power train - transmission,Removed,Removed,287,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,12900
+PM01,2171,8/08/2001,10/08/2001,dust leaking into cab,WC1,1234.01.09,EXAMPLE_LOCATION,operators cabin,Removed,Removed,480,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,13000
+PM01,2295,5/03/2006,6/03/2006,eng shuts down no reason found,WC1,1234.01.10,EXAMPLE_LOCATION,engine - main,Removed,Removed,575,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,13100
+PM01,2293,4/03/2006,5/03/2006,eng will not shut down,WC1,1234.01.11,EXAMPLE_LOCATION,fuel injection pump left,Removed,Removed,287,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,13200
+PM01,2490,21/03/2006,21/03/2006,engine hour meter not working,WC1,1234.01.12,EXAMPLE_LOCATION,elect eng control system,Removed,Removed,575,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,13300
+PM01,2113,28/02/2006,28/02/2006,engine oil pressure gauge not working,WC1,1234.01.13,EXAMPLE_LOCATION,lubrication system,Removed,Removed,236,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,13400
+PM01,1975,12/02/2006,12/02/2006,"engine shutdown, cylinder head failure",WC1,1234.01.14,EXAMPLE_LOCATION,fuel system,Removed,Removed,NA,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,13500
+PM01,2231,27/02/2006,27/02/2006,engine shutting down with air demand,WC1,1234.01.15,EXAMPLE_LOCATION,electronic engine control,Removed,Removed,215,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,13600
+PM01,2168,25/02/2006,26/02/2006,erratic control of jacks & hoist.,WC1,1234.01.16,EXAMPLE_LOCATION,pumps/valves/control,Removed,Removed,NA,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,13700
+PM01,2468,1/11/2007,0/1/00,fab & fit access to cab top & mast,WC1,1234.01.17,EXAMPLE_LOCATION,access stairs,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,13800
+PM01,2464,1/11/2007,0/1/00,fab & fit new elect box in cab,WC1,1234.01.18,EXAMPLE_LOCATION,electrical,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,13900
+PM01,2458,1/11/2007,0/1/00,fab & relocate battery box,WC1,1234.01.19,EXAMPLE_LOCATION,battery pack,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,14000
+PM01,2368,16/08/2001,16/08/2001,fab. & fit emergency exit steps.,WC1,1234.01.20,EXAMPLE_LOCATION,vehicle body,Removed,Removed,584,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,14100
+PM01,2219,28/02/2006,28/02/2006,fan motor noisy,WC1,1234.02.01,EXAMPLE_LOCATION,fan motor,Removed,Removed,215,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,14200
+PM01,2108,24/05/2006,23/02/2006,faulty circuit breaker on generator,WC1,1234.02.02,EXAMPLE_LOCATION,240v power,Removed,Removed,975,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,14300
+PM01,2285,3/03/2006,0/1/00,faulty proximity switch & circuit breaka,WC1,1234.02.03,EXAMPLE_LOCATION,electrical,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,14400
+PM01,2218,27/02/2006,27/02/2006,feed and jacks slow,WC1,1234.02.04,EXAMPLE_LOCATION,hydraulic pump - feed,Removed,Removed,431,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,14500
+PM01,2161,8/08/2001,9/08/2001,feed controler not holding head,WC1,1234.02.05,EXAMPLE_LOCATION,feed controller,Removed,Removed,204,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,14600
+PM01,2150,13/08/2001,0/1/00,feed lever very tight,WC1,1234.02.06,EXAMPLE_LOCATION,feed controller,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,14700
+PM01,2094,8/08/2001,21/08/2001,feed override switch not working,WC1,1234.02.07,EXAMPLE_LOCATION,feed controller,Removed,Removed,501,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,14800
+PM01,2196,26/02/2006,26/02/2006,feed potentiometer playing up,WC1,1234.02.08,EXAMPLE_LOCATION,hydraulics,Removed,Removed,431,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,14900
+PM01,2328,29/03/2006,0/1/00,feed pressure guage sticking,WC1,1234.02.09,EXAMPLE_LOCATION,hydraulics,Removed,Removed,0,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Y,15000
+PM01,2389,15/03/2006,0/1/00,feed pressure problem,WC1,1234.02.10,EXAMPLE_LOCATION,hydraulics,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,15100
+PM01,2417,17/03/2006,0/1/00,feed wont operate,WC1,1234.02.11,EXAMPLE_LOCATION,hydraulic pump - feed,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,15200
+PM01,2154,13/08/2001,0/1/00,fidecks require new skirts,WC1,1234.02.12,EXAMPLE_LOCATION,deck,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,15300
+PM01,2300,15/03/2006,15/03/2006,final shutdown scope,WC1,1234.02.13,EXAMPLE_LOCATION,manufacturer6 - d40ksl overburden drill,Removed,Removed,575,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,15400
+PM01,2476,1/11/2007,0/1/00,fit 60 litre comp. oil reserve tank,WC1,1234.02.14,EXAMPLE_LOCATION,air compressor system,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,15500
+PM01,2462,1/11/2007,0/1/00,fit dicky seat,WC1,1234.02.15,EXAMPLE_LOCATION,seat assembly,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,15600
+PM01,2497,29/03/2006,28/03/2006,fit diesel wiggins to l/h side point,WC1,1234.02.16,EXAMPLE_LOCATION,fuel tank,Removed,Removed,287,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Z,15700
+PM01,2481,1/11/2007,0/1/00,fit hyd. drive to alternator,WC1,1234.02.17,EXAMPLE_LOCATION,air conditioning system,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,15800
+PM01,2453,15/12/2006,15/12/2006,fit new deck,WC1,1234.02.18,EXAMPLE_LOCATION,deck,Removed,Removed,NA,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,15900
+PM01,2432,19/03/2006,0/1/00,fit new deck bush,WC1,1234.02.19,EXAMPLE_LOCATION,deck,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,16000
+PM01,2044,18/02/2006,0/1/00,fit new deck bush to ITEM_ID,WC1,1234.02.20,EXAMPLE_LOCATION,deck,Removed,Removed,NA,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,16100
+PM01,2488,1/11/2007,0/1/00,fit new rod holder arm,WC1,1234.02.21,EXAMPLE_LOCATION,pipe positioner arm,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,16200
+PM01,2493,23/03/2006,24/03/2006,"fit new stems,sub & deck bush",WC1,1234.02.22,EXAMPLE_LOCATION,drill rods,Removed,Removed,NA,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,16300
+PM01,2384,31/12/2006,0/1/00,fit pex turbo,WC1,1234.02.23,EXAMPLE_LOCATION,turbocharger,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,16400
+PM01,2067,22/02/2006,0/1/00,fitting loose on siwvel,WC1,1234.02.24,EXAMPLE_LOCATION,air piping,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,16500
+PM01,2387,15/03/2006,0/1/00,fix door seal,WC1,1234.02.25,EXAMPLE_LOCATION,frame,Removed,Removed,0,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Z,16600
+PM01,2237,28/02/2006,0/1/00,flat battery jump start,WC1,1234.02.26,EXAMPLE_LOCATION,battery pack,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,16700
+PM01,2416,17/03/2006,0/1/00,front jack light not going out,WC1,1234.02.27,EXAMPLE_LOCATION,levelling jack cylinder - front,Removed,Removed,0,PI1,SID1,AID8,Removed,8,Removed,Removed,FALSE,Removed,,,Y,16800
+PM01,2470,21/03/2006,21/03/2006,front jack limits not working,WC1,1234.02.28,EXAMPLE_LOCATION,levelling jack cylinders,Removed,Removed,402,PI1,SID1,AID8,Removed,8,Removed,Removed,FALSE,Removed,,,Z,16900
+PM01,2436,20/03/2006,20/03/2006,front jacks will not work,WC1,1234.02.29,EXAMPLE_LOCATION,hydraulic stacker valve - lower,Removed,Removed,958,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,17000
+PM01,2439,20/03/2006,20/03/2006,front jacks wont raise,WC1,1234.02.30,EXAMPLE_LOCATION,levelling jack cylinders,Removed,Removed,575,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,17100
+PM01,2020,22/02/2006,0/1/00,grease leak at frame lube pump fittings,WC1,1234.02.31,EXAMPLE_LOCATION,grease lube system,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,17200
+PM01,2065,20/02/2006,20/02/2006,grease lube alarm,WC1,1234.02.32,EXAMPLE_LOCATION,grease lube system,Removed,Removed,351,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,17300
+PM01,2139,10/09/2001,0/1/00,grease pump needs overhauling,WC1,1234.02.33,EXAMPLE_LOCATION,grease lube system,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,17400
+PM01,2088,22/02/2006,0/1/00,grease pump r/s,WC1,1234.02.34,EXAMPLE_LOCATION,grease lube system,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,17500
+PM01,2104,15/03/2006,0/1/00,grease tank leaking at pump base,WC1,1234.02.35,EXAMPLE_LOCATION,grease lube system,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,17600
+PM01,2229,27/02/2006,0/1/00,grs b.creedon 15/2/06,WC1,1234.02.36,EXAMPLE_LOCATION,manufacturer6 - NA overburden drill,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,17700
+PM01,2227,27/02/2006,0/1/00,grs g.reid 8/2/06,WC1,1234.02.37,EXAMPLE_LOCATION,drill truck mechanical  model1 NA,Removed,Removed,NA,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,17800
+PM01,2228,27/02/2006,0/1/00,grs l.cambell 15/2/06,WC1,1234.02.38,EXAMPLE_LOCATION,manufacturer6 - NA overburden drill,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,17900
+PM01,2195,26/02/2006,26/02/2006,hand rail repairs.,WC1,1234.02.39,EXAMPLE_LOCATION,frame,Removed,Removed,215,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,18000
+PM01,2322,7/03/2006,7/03/2006,hasting doing a service,WC1,1234.02.40,EXAMPLE_LOCATION,drill truck mechanical  NA NA,Removed,Removed,863,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Z,18100
+PM01,2308,6/03/2006,0/1/00,hastings inspection,WC1,1234.01.01,EXAMPLE_LOCATION,drill truck mechanical  NA NA,Removed,Removed,0,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,X,18200
+PM01,2357,15/03/2006,0/1/00,head & deck creeping down,WC1,1234.01.02,EXAMPLE_LOCATION,pumps/valves/control,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,18300
+PM01,2112,23/02/2006,0/1/00,head control valve not working,WC1,1234.01.03,EXAMPLE_LOCATION,rotary head gearbox,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,18400
+PM01,2394,16/03/2006,0/1/00,head guides worn,WC1,1234.01.04,EXAMPLE_LOCATION,rotary head guides,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,18500
+PM01,2165,14/09/2001,28/09/2001,head keeps creeping down,WC1,1234.01.05,EXAMPLE_LOCATION,feed controller,Removed,Removed,266,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,18600
+PM01,2312,7/03/2006,7/03/2006,head playing up.,WC1,1234.01.06,EXAMPLE_LOCATION,electrical cables/controls,Removed,Removed,255,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,18700
+PM01,2143,8/08/2001,24/08/2001,head sensor for traming at top of mast,WC1,1234.01.07,EXAMPLE_LOCATION,drill monitor systems panel,Removed,Removed,360,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,18800
+PM01,2136,24/02/2006,24/02/2006,head up guides and cups need replacing,WC1,1234.01.08,EXAMPLE_LOCATION,drill tools,Removed,Removed,878,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,18900
+PM01,2510,22/03/2006,0/1/00,hid lights not working,WC1,1234.01.09,EXAMPLE_LOCATION,24v lts & power,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,19000
+PM01,2232,27/02/2006,0/1/00,hoist feed to farst,WC1,1234.01.10,EXAMPLE_LOCATION,hydraulic pump - feed,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,19100
+PM01,2141,10/09/2001,0/1/00,hose between compressor oil tank & seper,WC1,1234.01.11,EXAMPLE_LOCATION,air piping,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,19200
+PM01,2202,10/08/2001,11/08/2001,hose off the air tank bent,WC1,1234.01.12,EXAMPLE_LOCATION,air piping,Removed,Removed,360,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,19300
+PM01,1994,13/02/2006,14/02/2006,hose tangled in rotary head,WC1,1234.01.13,EXAMPLE_LOCATION,mast,Removed,Removed,351,PI1,SID1,AID8,Removed,8,Removed,Removed,FALSE,Removed,,,X,19400
+PM01,2455,1/11/2007,0/1/00,hyd cab door to be bolted shut,WC1,1234.01.14,EXAMPLE_LOCATION,hydraulics,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,19500
+PM01,2366,24/03/2006,0/1/00,hyd gauges not working,WC1,1234.01.15,EXAMPLE_LOCATION,hydraulics,Removed,Removed,0,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Z,19600
+PM01,2485,31/12/2006,0/1/00,hyd tune at end of shut down,WC1,1234.01.16,EXAMPLE_LOCATION,manufacturer6 - d40ksl overburden drill,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,19700
+PM01,2164,8/08/2001,0/1/00,hydraulic control button won't switch of,WC1,1234.01.17,EXAMPLE_LOCATION,controllers,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,19800
+PM01,2329,29/03/2006,0/1/00,hydraulic pressure guage sticking.,WC1,1234.01.18,EXAMPLE_LOCATION,hydraulics,Removed,Removed,0,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Z,19900
+PM01,1996,14/02/2006,0/1/00,hydraulic warning alarm,WC1,1234.01.19,EXAMPLE_LOCATION,hydraulics,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,20000
+PM01,2283,16/08/2001,16/08/2001,input seal leaking on front drive box,WC1,1234.01.20,EXAMPLE_LOCATION,pump drive gearbox front,Removed,Removed,610,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,20100
+PM01,2224,10/03/2006,25/04/2006,inspect crack in hydraulic tank ITEM_ID,WC1,1234.02.01,EXAMPLE_LOCATION,hydraulics,Removed,Removed,255,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,20200
+PM01,2491,21/03/2006,0/1/00,inspect hydraulic oil leak on jack leg,WC1,1234.02.02,EXAMPLE_LOCATION,hydraulics,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,20300
+PM01,2480,1/11/2007,0/1/00,inspect idlers & report condition,WC1,1234.02.03,EXAMPLE_LOCATION,idlers,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,20400
+PM01,2055,19/02/2006,0/1/00,inspect l/h propel pump operation,WC1,1234.02.04,EXAMPLE_LOCATION,hydraulic pump - left propel,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,20500
+PM01,2511,12/04/2006,27/03/2006,inspect possible cable damage,WC1,1234.02.05,EXAMPLE_LOCATION,electrical,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,20600
+PM01,2129,7/12/2001,0/1/00,inspection 3/5/01. some hyd hoses behind,WC1,1234.02.06,EXAMPLE_LOCATION,hydraulic hoses & lines,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,20700
+PM01,2016,15/05/2006,0/1/00,install 85/140 dry-break couplings,WC1,1234.02.07,EXAMPLE_LOCATION,drill truck mechanical  d25 edd66,Removed,Removed,771,PI1,SID1,AID8,Removed,8,Removed,Removed,FALSE,Removed,,,Z,20800
+PM01,2015,3/05/2006,0/1/00,install 85/140 drybreak couplings,WC1,1234.02.08,EXAMPLE_LOCATION,drill truck mechanical  model1 NA,Removed,Removed,678,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,20900
+PM01,2477,1/11/2007,0/1/00,install gate valve in hyd suction line,WC1,1234.02.09,EXAMPLE_LOCATION,hydraulic tank,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,21000
+PM01,2222,27/02/2006,0/1/00,install new deck seal,WC1,1234.02.10,EXAMPLE_LOCATION,deck,Removed,Removed,866,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Z,21100
+PM01,2379,15/03/2006,0/1/00,installling ballasts,WC1,1234.02.11,EXAMPLE_LOCATION,240v power,Removed,Removed,88,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,21200
+PM01,2420,20/03/2006,0/1/00,inverter tripping on e/l,WC1,1234.02.12,EXAMPLE_LOCATION,electrical,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,21300
+PM01,2492,17/04/2006,21/03/2006,isolate 2 burnt cables - see text,WC1,1234.02.13,EXAMPLE_LOCATION,manufacturer6 - NA overburden drill,Removed,Removed,149,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,21400
+PM01,2199,26/02/2006,26/02/2006,jack check seals hard- erratic,WC1,1234.02.14,EXAMPLE_LOCATION,levelling jack cylinder - rear left,Removed,Removed,431,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,21500
+PM01,2433,19/03/2006,0/1/00,jack not retracting,WC1,1234.02.15,EXAMPLE_LOCATION,levelling jack cylinders,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,21600
+PM01,2512,22/03/2006,0/1/00,jakstas NA repairs 10/2/06,WC1,1234.02.16,EXAMPLE_LOCATION,electrical,Removed,Removed,965,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,21700
+PM01,2517,12/04/2006,0/1/00,l/h lower feed sproket out of line,WC1,1234.02.17,EXAMPLE_LOCATION,feed sprockets,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,21800
+PM01,2496,22/03/2006,0/1/00,l/h track binding up,WC1,1234.02.18,EXAMPLE_LOCATION,tracks,Removed,Removed,0,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Y,21900
+PM01,2038,20/02/2006,17/02/2006,l/h track is slow to operate,WC1,1234.02.19,EXAMPLE_LOCATION,hydraulic pump - right propel,Removed,Removed,NA,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,22000
+PM01,2498,29/03/2006,0/1/00,lanolin for chain lube,WC1,1234.02.20,EXAMPLE_LOCATION,grease lube system,Removed,Removed,NA,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,X,22100
+PM01,2130,23/02/2006,24/02/2006,leak l/h fan motor hose.,WC1,1234.02.21,EXAMPLE_LOCATION,hydraulic pump - fan left,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,22200
+PM01,1989,13/02/2006,0/1/00,leaking cyclinder.,WC1,1234.02.22,EXAMPLE_LOCATION,tool wrench cylinder,Removed,Removed,153,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,22300
+PM01,2221,27/02/2006,27/02/2006,levelling jacks slow,WC1,1234.02.23,EXAMPLE_LOCATION,levelling jack cylinders,Removed,Removed,226,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,22400
+PM01,2134,1/10/2001,0/1/00,lhs mast lift cylinder leaking.,WC1,1234.02.24,EXAMPLE_LOCATION,mast feed cylinder - left,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,22500
+PM01,2211,12/08/2001,12/08/2001,lift stem back in,WC1,1234.02.25,EXAMPLE_LOCATION,drill rods,Removed,Removed,60,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,22600
+PM01,2135,24/02/2006,24/02/2006,light's not working,WC1,1234.02.26,EXAMPLE_LOCATION,240v power,Removed,Removed,175,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,22700
+PM01,2095,23/02/2006,23/02/2006,lights cutting out,WC1,1234.02.27,EXAMPLE_LOCATION,240v power,Removed,Removed,351,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,22800
+PM01,2338,22/03/2006,0/1/00,loose growser bolts l/h track,WC1,1234.02.28,EXAMPLE_LOCATION,tracks,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,22900
+PM01,2340,10/03/2006,10/03/2006,loss of downhole air,WC1,1234.02.29,EXAMPLE_LOCATION,air system controls,Removed,Removed,287,PI1,SID1,AID8,Removed,8,Removed,Removed,FALSE,Removed,,,X,23000
+PM01,2051,19/02/2006,19/02/2006,lost a cylender pin,WC1,1234.02.30,EXAMPLE_LOCATION,carousel load/index cylinder,Removed,Removed,703,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,23100
+PM01,2233,27/02/2006,28/02/2006,lost a rod,WC1,1234.02.31,EXAMPLE_LOCATION,drill rods,Removed,Removed,863,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,23200
+PM01,2049,19/02/2006,0/1/00,lost pin to indexing cylender,WC1,1234.02.32,EXAMPLE_LOCATION,carousel load/index cylinder,Removed,Removed,22,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,23300
+PM01,2288,4/03/2006,4/03/2006,low compressor air pressure,WC1,1234.02.33,EXAMPLE_LOCATION,air compressor system,Removed,Removed,431,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Y,23400
+PM01,2185,10/08/2001,10/08/2001,low on power & turbo glowing red,WC1,1234.02.34,EXAMPLE_LOCATION,engine,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,23500
+PM01,2494,22/03/2006,22/03/2006,low power,WC1,1234.02.35,EXAMPLE_LOCATION,engine,Removed,Removed,323,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,23600
+PM01,2287,3/03/2006,4/03/2006,lube alarm activated,WC1,1234.02.36,EXAMPLE_LOCATION,grease lube system,Removed,Removed,431,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,23700
+PM01,2234,14/08/2001,0/1/00,malfunction in bit lube system.,WC1,1234.02.37,EXAMPLE_LOCATION,other systems,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,23800
+PM01,2260,1/03/2006,0/1/00,manufacturer24 ITEM_ID  repairs,WC1,1234.02.38,EXAMPLE_LOCATION,hydraulic hoses & lines,Removed,Removed,461,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,23900
+PM01,1988,13/02/2006,0/1/00,manufacturer24 ITEM_ID 10/02/2006,WC1,1234.02.39,EXAMPLE_LOCATION,hydraulic hoses & lines,Removed,Removed,740,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,24000
+PM01,2487,21/03/2006,0/1/00,manufacturer24 ITEM_ID 15/03/06,WC1,1234.02.40,EXAMPLE_LOCATION,hydraulic hoses & lines,Removed,Removed,945,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,24100
+PM01,2027,16/02/2006,0/1/00,manufacturer24 ITEM_ID 15/2/06,WC1,1234.01.01,EXAMPLE_LOCATION,hydraulic hoses & lines,Removed,Removed,552,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,24200
+PM01,2226,27/02/2006,0/1/00,manufacturer24 ITEM_ID repairs,WC1,1234.01.02,EXAMPLE_LOCATION,hydraulic hoses & lines,Removed,Removed,891,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,24300
+PM01,2410,16/03/2006,0/1/00,manufacturer24 NA 14-03-06,WC1,1234.01.03,EXAMPLE_LOCATION,hydraulic hoses & lines,Removed,Removed,96,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Z,24400
+PM01,2363,13/03/2006,0/1/00,manufacturer24 NA 8/3/06 repairs,WC1,1234.01.04,EXAMPLE_LOCATION,hydraulic hoses and pipes,Removed,Removed,229,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,24500
+PM01,2149,24/02/2006,0/1/00,manufacturer24 NA repairs,WC1,1234.01.05,EXAMPLE_LOCATION,hydraulic hoses & lines,Removed,Removed,NA,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,24600
+PM01,2170,12/09/2001,0/1/00,manufacturer30 have lost menu bar,WC1,1234.01.06,EXAMPLE_LOCATION,drill monitor systems panel,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,24700
+PM01,2039,7/08/2001,0/1/00,manufacturer5 o/haul mast raise cylinder,WC1,1234.01.07,EXAMPLE_LOCATION,mast raise cylinder - right,Removed,Removed,NA,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,24800
+PM01,2132,10/09/2001,0/1/00,mask locking pin light u/s,WC1,1234.01.08,EXAMPLE_LOCATION,drill monitor systems panel,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,24900
+PM01,2294,5/03/2006,5/03/2006,mast locking pin u/s,WC1,1234.01.09,EXAMPLE_LOCATION,mast,Removed,Removed,719,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,25000
+PM01,2271,2/03/2006,3/03/2006,mast pin will not retract,WC1,1234.01.10,EXAMPLE_LOCATION,mast,Removed,Removed,287,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,25100
+PM01,2175,8/08/2001,0/1/00,mast warning light not working,WC1,1234.01.11,EXAMPLE_LOCATION,drill monitor systems panel,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,25200
+PM01,2377,15/03/2006,0/1/00,mindrill refurb drill rods,WC1,1234.01.12,EXAMPLE_LOCATION,drill rods,Removed,Removed,NA,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,25300
+PM01,2243,28/02/2006,28/02/2006,modify slap wrench hold down lugs,WC1,1234.01.13,EXAMPLE_LOCATION,breakout wrench,Removed,Removed,215,PI1,SID1,AID8,Removed,8,Removed,Removed,FALSE,Removed,,,X,25400
+PM01,2454,1/11/2007,0/1/00,move water tank o/flow to outside,WC1,1234.01.14,EXAMPLE_LOCATION,water injection system,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,25500
+PM01,2297,6/03/2006,0/1/00,needs a crane first up ...dropped steel,WC1,1234.01.15,EXAMPLE_LOCATION,implements,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,25600
+PM01,2324,8/03/2006,8/03/2006,needs a jump start,WC1,1234.01.16,EXAMPLE_LOCATION,battery pack,Removed,Removed,287,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,X,25700
+PM01,2152,24/02/2006,0/1/00,no down hole air,WC1,1234.01.17,EXAMPLE_LOCATION,air system controls,Removed,Removed,277,PI1,SID1,AID8,Removed,8,Removed,Removed,FALSE,Removed,,,Y,25800
+PM01,2323,8/03/2006,8/03/2006,no water going to mast,WC1,1234.01.18,EXAMPLE_LOCATION,water injection system,Removed,Removed,431,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,25900
+PM01,2445,21/03/2006,0/1/00,not hoisting up,WC1,1234.01.19,EXAMPLE_LOCATION,carousel,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,26000
+PM01,2482,1/11/2007,0/1/00,o/haul air conditioning system,WC1,1234.01.20,EXAMPLE_LOCATION,air conditioning system,Removed,Removed,100,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,26100
+PM01,2446,1/11/2007,0/1/00,o/haul track frame pivot,WC1,1234.02.01,EXAMPLE_LOCATION,track assemblies / undercarriage,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,26200
+PM01,2479,1/11/2007,0/1/00,o/haul winch,WC1,1234.02.02,EXAMPLE_LOCATION,rope winch,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,26300
+PM01,2424,18/03/2006,0/1/00,oil leak around pumps,WC1,1234.02.03,EXAMPLE_LOCATION,pumps/valves/control,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,26400
+PM01,2274,3/03/2006,3/03/2006,oil leak at bottom of mast,WC1,1234.02.04,EXAMPLE_LOCATION,hydraulics,Removed,Removed,791,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,26500
+PM01,2429,18/03/2006,0/1/00,oil leak at deck wrench,WC1,1234.02.05,EXAMPLE_LOCATION,wrench cylinders,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,26600
+PM01,2101,15/03/2006,0/1/00,oil leak at l/h/f chassis,WC1,1234.02.06,EXAMPLE_LOCATION,hydraulic hoses & lines,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,26700
+PM01,2103,12/04/2006,0/1/00,oil leak at l/h/f jack cylinder,WC1,1234.02.07,EXAMPLE_LOCATION,hydraulic hoses & lines,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,26800
+PM01,2402,16/03/2006,0/1/00,oil leak at turbo,WC1,1234.02.08,EXAMPLE_LOCATION,hydraulics,Removed,Removed,17,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,26900
+PM01,2413,17/03/2006,0/1/00,oil leak feed pump,WC1,1234.02.09,EXAMPLE_LOCATION,hydraulic pump - feed,Removed,Removed,8,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,27000
+PM01,2367,13/03/2006,0/1/00,oil leak l/h feed cylinder,WC1,1234.02.10,EXAMPLE_LOCATION,mast feed cylinder - left,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,27100
+PM01,2393,16/03/2006,0/1/00,oil leak on feed cylinder,WC1,1234.02.11,EXAMPLE_LOCATION,pumps/valves/control,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,27200
+PM01,2190,5/04/2006,0/1/00,oil leak regen valve,WC1,1234.02.12,EXAMPLE_LOCATION,auxiliary valve regen-xl (counterbalance,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,27300
+PM01,2023,22/02/2006,23/02/2006,oil leak under acc. pumps,WC1,1234.02.13,EXAMPLE_LOCATION,oil - hydraulic,Removed,Removed,NA,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,27400
+PM01,2100,15/03/2006,0/1/00,oil leak under oil cooler,WC1,1234.02.14,EXAMPLE_LOCATION,hydraulic hoses & lines,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,27500
+PM01,2098,8/08/2001,12/08/2001,oil leakon tool wrench,WC1,1234.02.15,EXAMPLE_LOCATION,breakout wrench,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,27600
+PM01,2102,15/03/2006,0/1/00,oil leaks in hyd. cabnet,WC1,1234.02.16,EXAMPLE_LOCATION,hydraulic hoses & lines,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,27700
+PM01,2181,9/08/2001,0/1/00,oil leaks on mast.,WC1,1234.02.17,EXAMPLE_LOCATION,hydraulics,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,27800
+PM01,1993,13/02/2006,14/02/2006,oil lines tangled,WC1,1234.02.18,EXAMPLE_LOCATION,mast,Removed,Removed,351,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,27900
+PM01,2200,10/08/2001,10/08/2001,one filter still leaking oil,WC1,1234.02.19,EXAMPLE_LOCATION,engine - main,Removed,Removed,120,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,28000
+PM01,2310,6/03/2006,0/1/00,operator change air filter,WC1,1234.02.20,EXAMPLE_LOCATION,drill truck mechanical  model1 NA,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,28100
+PM01,2247,1/04/2006,7/04/2006,overhaul water injection pump,WC1,1234.02.21,EXAMPLE_LOCATION,water injection pump,Removed,Removed,NA,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,28200
+PM01,2216,27/02/2006,0/1/00,p[ipe positioner switch r/s,WC1,1234.02.22,EXAMPLE_LOCATION,drill pipe support cylinder,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,28300
+PM01,2337,16/08/2001,16/08/2001,park brake will not hold,WC2,1234.02.23,EXAMPLE_LOCATION,parking brake,Removed,Removed,436,PI1,SID1,AID3,Removed,3,Removed,Removed,FALSE,Removed,,,X,28400
+PM01,2371,14/03/2006,0/1/00,parrot beaks need building up.,WC1,1234.02.24,EXAMPLE_LOCATION,implements,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,28500
+PM01,2191,10/08/2001,10/08/2001,pipe in hole alarm,WC1,1234.02.25,EXAMPLE_LOCATION,protection devices & alarms,Removed,Removed,300,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,28600
+PM01,2428,18/03/2006,18/03/2006,pipe support cups,WC1,1234.02.26,EXAMPLE_LOCATION,pipe positioner arm,Removed,Removed,215,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,28700
+PM01,2403,16/03/2006,0/1/00,poasitioner arm cups npt holding,WC1,1234.02.27,EXAMPLE_LOCATION,frame,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,28800
+PM01,2061,20/02/2006,0/1/00,positioner arm not working,WC1,1234.02.28,EXAMPLE_LOCATION,rod support assembly,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,28900
+PM01,2057,19/02/2006,0/1/00,postioner arm not working,WC1,1234.02.29,EXAMPLE_LOCATION,rod support assembly,Removed,Removed,NA,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,29000
+PM01,2010,21/02/2006,0/1/00,pre-service setup,WC1,1234.02.30,EXAMPLE_LOCATION,drill truck mechanical  NA NA,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,29100
+PM01,2013,15/02/2006,0/1/00,purchace  85w140 drybreak couplings,WC1,1234.02.31,EXAMPLE_LOCATION,manufacturer6 - NA overburden drill,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,29200
+PM01,2012,15/02/2006,0/1/00,purchace 85w140 drybreak couplings,WC1,1234.02.32,EXAMPLE_LOCATION,manufacturer6 - d40ksl overburden drill,Removed,Removed,NA,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,29300
+PM01,1985,13/02/2006,0/1/00,quote to repair main pump,WC1,1234.02.33,EXAMPLE_LOCATION,main pump right,Removed,Removed,NA,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,29400
+PM01,1987,13/02/2006,0/1/00,quote to repair propel motor,WC1,1234.02.34,EXAMPLE_LOCATION,propel motors,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,29500
+PM01,2319,12/04/2006,18/03/2006,r/h upper loader cyl leaking,WC1,1234.02.35,EXAMPLE_LOCATION,slide loader cylinder - upper right,Removed,Removed,591,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,29600
+PM01,2411,16/03/2006,0/1/00,r/h/f engine mount bolts loose,WC1,1234.02.36,EXAMPLE_LOCATION,frame,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,29700
+PM01,2153,13/08/2001,0/1/00,radio falling out of bracket,WC1,1234.02.37,EXAMPLE_LOCATION,communications,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,29800
+PM01,2188,8/03/2006,0/1/00,rail staunchen broken l/h crows nest,WC1,1234.02.38,EXAMPLE_LOCATION,frame,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,29900
+PM01,2138,10/09/2001,0/1/00,reair oil leaks from under cylinder head,WC1,1234.02.39,EXAMPLE_LOCATION,cylinder head assembly,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,30000
+PM01,2097,8/08/2001,0/1/00,reamer needs replacing or removeing,WC1,1234.02.40,EXAMPLE_LOCATION,reamer,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,30100
+PM01,2096,8/08/2001,0/1/00,rear cabin door requires new rubber,WC1,1234.01.01,EXAMPLE_LOCATION,operators cabin,Removed,Removed,283,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,30200
+PM01,2240,28/02/2006,0/1/00,recharge fire suppression,WC1,1234.01.02,EXAMPLE_LOCATION,fire suppression system,Removed,Removed,0,PI1,SID1,AID8,Removed,8,Removed,Removed,FALSE,Removed,,,Y,30300
+PM01,2179,25/02/2006,0/1/00,refit and tighten a/c mounting bolts,WC1,1234.01.03,EXAMPLE_LOCATION,a/c compressor,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,30400
+PM01,2081,4/04/2006,0/1/00,refit winch rope,WC1,1234.01.04,EXAMPLE_LOCATION,rope winch,Removed,Removed,75,PI1,SID1,AID5,Removed,5,Removed,Removed,TRUE,Removed,,,X,30500
+PM01,2461,1/11/2007,0/1/00,refurbish operators seat,WC1,1234.01.05,EXAMPLE_LOCATION,seat assembly,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,30600
+PM01,2120,8/03/2006,25/02/2006,relace manufacturer2 drain hose,WC1,1234.01.06,EXAMPLE_LOCATION,pump drive transmission,Removed,Removed,158,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,30700
+PM01,2456,1/11/2007,0/1/00,relocate hyd. filters to front of tank,WC1,1234.01.07,EXAMPLE_LOCATION,hydraulics,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,30800
+PM01,2460,22/03/2006,22/03/2006,remove - refit cab,WC1,1234.01.08,EXAMPLE_LOCATION,operators cabin,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,30900
+PM01,2315,7/03/2006,7/03/2006,remove link from both feed chain,WC1,1234.01.09,EXAMPLE_LOCATION,chain feed  pulldown,Removed,Removed,575,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,31000
+PM01,2423,18/03/2006,0/1/00,remove rod so they can change bit,WC1,1234.01.10,EXAMPLE_LOCATION,drill rods,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,31100
+PM01,2484,31/12/2006,0/1/00,repaint drill,WC1,1234.01.11,EXAMPLE_LOCATION,manufacturer6 - d40ksl overburden drill,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,31200
+PM01,2072,7/08/2001,7/08/2001,repair and replace comp. discharge hose,WC1,1234.01.12,EXAMPLE_LOCATION,air system piping,Removed,Removed,NA,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,31300
+PM01,2084,21/02/2006,21/02/2006,repair breakout fork cylinder on r/h,WC1,1234.01.13,EXAMPLE_LOCATION,frame,Removed,Removed,NA,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,31400
+PM01,2257,1/03/2006,1/03/2006,repair broken pull down chains ITEM_ID,WC1,1234.01.14,EXAMPLE_LOCATION,pull down chains,Removed,Removed,NA,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,31500
+PM01,2230,27/02/2006,27/02/2006,"repair cab e-stop ""not working""",WC1,1234.01.15,EXAMPLE_LOCATION,electrical cables/controls,Removed,Removed,215,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,31600
+PM01,2177,8/08/2001,0/1/00,repair charging,WC1,1234.01.16,EXAMPLE_LOCATION,electrical,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,31700
+PM01,2383,15/03/2006,0/1/00,repair crack in deck,WC1,1234.01.17,EXAMPLE_LOCATION,deck,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,31800
+PM01,2516,5/04/2006,0/1/00,repair crack in l/h vertical lock,WC1,1234.01.18,EXAMPLE_LOCATION,mast,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,31900
+PM01,2019,22/02/2006,0/1/00,repair cracking around cooler pack,WC1,1234.01.19,EXAMPLE_LOCATION,frame,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,32000
+PM01,2451,1/11/2007,0/1/00,repair cracking in chassis,WC1,1234.01.20,EXAMPLE_LOCATION,main frame,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,32100
+PM01,2447,1/11/2007,0/1/00,repair cracking in track frames,WC1,1234.02.01,EXAMPLE_LOCATION,track frames,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,32200
+PM01,2339,5/04/2006,0/1/00,repair cracks as per ndt report,WC1,1234.02.02,EXAMPLE_LOCATION,mast,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,32300
+PM01,2054,19/02/2006,19/02/2006,repair deck bush on ITEM_ID,WC1,1234.02.03,EXAMPLE_LOCATION,implements,Removed,Removed,351,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,32400
+PM01,2321,15/03/2006,0/1/00,repair dust curtain,WC1,1234.02.04,EXAMPLE_LOCATION,mast,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,32500
+PM01,2028,8/03/2006,0/1/00,repair dust shute rubbers,WC1,1234.02.05,EXAMPLE_LOCATION,deck assembly,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,32600
+PM01,1979,13/02/2006,13/02/2006,repair engine fire supression capillary,WC1,1234.02.06,EXAMPLE_LOCATION,fire suppression system,Removed,Removed,NA,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,32700
+PM01,2090,8/08/2001,8/08/2001,repair front lights,WC2,1234.02.07,EXAMPLE_LOCATION,#NAME?,Removed,Removed,724,PI1,SID1,AID3,Removed,3,Removed,Removed,FALSE,Removed,,,Z,32800
+PM01,2114,10/05/2006,10/05/2006,repair head speed gauge,WC1,1234.02.08,EXAMPLE_LOCATION,elect eng control system,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,32900
+PM01,2035,17/02/2006,0/1/00,repair hole in bull hose,WC1,1234.02.09,EXAMPLE_LOCATION,mast bull hose,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,33000
+PM01,1977,6/08/2001,9/08/2001,repair hydraulic leak up mast,WC1,1234.02.10,EXAMPLE_LOCATION,hydraulics,Removed,Removed,360,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,33100
+PM01,2503,29/03/2006,0/1/00,repair leaking a/c motor,WC1,1234.02.11,EXAMPLE_LOCATION,air conditioning system,Removed,Removed,0,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,X,33200
+PM01,2082,7/08/2001,7/08/2001,repair light bracket,WC2,1234.02.12,EXAMPLE_LOCATION,#NAME?,Removed,Removed,240,PI1,SID1,AID3,Removed,3,Removed,Removed,FALSE,Removed,,,Y,33300
+PM01,1981,13/02/2006,13/02/2006,repair lube line on ITEM_ID,WC1,1234.02.13,EXAMPLE_LOCATION,lubrication system,Removed,Removed,175,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,33400
+PM01,2204,11/08/2001,11/08/2001,repair mast safety rail,WC1,1234.02.14,EXAMPLE_LOCATION,mast,Removed,Removed,660,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,33500
+PM01,2349,11/03/2006,0/1/00,repair oil leak on cylinder,WC1,1234.02.15,EXAMPLE_LOCATION,wrench cylinders,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,33600
+PM01,1983,13/02/2006,0/1/00,repair oil leak on hydraulic return hose,WC1,1234.02.16,EXAMPLE_LOCATION,hydraulic hoses & lines,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,33700
+PM01,2351,11/03/2006,11/03/2006,repair pin in pull down chain ITEM_ID,WC1,1234.02.17,EXAMPLE_LOCATION,deck,Removed,Removed,936,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,X,33800
+PM01,2182,9/08/2001,0/1/00,repair to auto fire supression,WC1,1234.02.18,EXAMPLE_LOCATION,frame,Removed,Removed,429,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,33900
+PM01,2062,7/08/2001,9/08/2001,repair traveling sheeve guide,WC3,1234.02.19,EXAMPLE_LOCATION,rotary feed sheaves,Removed,Removed,256,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,34000
+PM01,2238,14/08/2001,14/08/2001,repair/replace blown hoses,WC1,1234.02.20,EXAMPLE_LOCATION,other systems,Removed,Removed,656,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,34100
+PM01,2334,9/03/2006,0/1/00,repaired two lights,WC1,1234.02.21,EXAMPLE_LOCATION,lights & power,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,34200
+PM01,2386,15/03/2006,0/1/00,repairing air blower on window,WC1,1234.02.22,EXAMPLE_LOCATION,track - rh,Removed,Removed,0,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Z,34300
+PM01,2033,16/02/2006,17/02/2006,repairs to brake out wrench,WC1,1234.02.23,EXAMPLE_LOCATION,breakout wrench,Removed,Removed,263,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,34400
+PM01,2311,7/03/2006,7/03/2006,repairs to breakout wrench,WC1,1234.02.24,EXAMPLE_LOCATION,breakout wrench,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,34500
+PM01,2213,13/08/2001,13/08/2001,repairs to positioner arm,WC1,1234.02.25,EXAMPLE_LOCATION,implements,Removed,Removed,180,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,34600
+PM01,2206,11/08/2001,0/1/00,repairs to tool rench,WC1,1234.02.26,EXAMPLE_LOCATION,implements,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,34700
+PM01,2298,10/03/2006,0/1/00,repalce alt. belts,WC1,1234.02.27,EXAMPLE_LOCATION,alternator 24v,Removed,Removed,115,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,34800
+PM01,2345,10/03/2006,10/03/2006,repalce cylinder head,WC1,1234.02.28,EXAMPLE_LOCATION,cylinder head assembly,Removed,Removed,NA,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,34900
+PM01,2449,1/11/2007,0/1/00,replace & relocate oil lube station,WC1,1234.02.29,EXAMPLE_LOCATION,hydraulics,Removed,Removed,242,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,35000
+PM01,2183,25/02/2006,0/1/00,replace 2 x lower bull hoses,WC1,1234.02.30,EXAMPLE_LOCATION,mast flexible hose,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,35100
+PM01,2093,22/02/2006,0/1/00,replace 3x lights,WC1,1234.02.31,EXAMPLE_LOCATION,lighting / power distribution,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,35200
+PM01,2378,15/03/2006,0/1/00,replace a/c clutch,WC1,1234.02.32,EXAMPLE_LOCATION,air conditioning system,Removed,Removed,73,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,35300
+PM01,2365,13/03/2006,0/1/00,replace a/c comressor,WC1,1234.02.33,EXAMPLE_LOCATION,a/c compressor,Removed,Removed,546,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,35400
+PM01,2250,22/03/2006,22/03/2006,replace a/c flow divider cartrigde,WC1,1234.02.34,EXAMPLE_LOCATION,pumps/valves/control,Removed,Removed,615,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,35500
+PM01,2474,1/11/2007,0/1/00,replace air seperator elements,WC1,1234.02.35,EXAMPLE_LOCATION,air/oil separator,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,35600
+PM01,2513,20/08/2001,20/08/2001,replace air switch on rotation lever,WC1,1234.02.36,EXAMPLE_LOCATION,electrical,Removed,Removed,240,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,35700
+PM01,2478,3/05/2006,3/05/2006,replace all cab blinds,WC1,1234.02.37,EXAMPLE_LOCATION,operators cabin,Removed,Removed,NA,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,35800
+PM01,2333,9/03/2006,9/03/2006,replace all injectors,WC1,1234.02.38,EXAMPLE_LOCATION,injectors,Removed,Removed,NA,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,35900
+PM01,2083,21/02/2006,22/02/2006,replace alternator,WC1,1234.02.39,EXAMPLE_LOCATION,alternator 24v,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,36000
+PM01,2320,8/03/2006,0/1/00,replace alternator belts,WC1,1234.02.40,EXAMPLE_LOCATION,engine - main,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,36100
+PM01,2085,22/02/2006,22/02/2006,replace battery's,WC1,1234.01.01,EXAMPLE_LOCATION,24v lights,Removed,Removed,869,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,36200
+PM01,2380,15/03/2006,0/1/00,replace batterys,WC1,1234.01.02,EXAMPLE_LOCATION,24v lts & power,Removed,Removed,602,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,36300
+PM01,2325,15/08/2001,15/08/2001,replace blown hyd hose,WC1,1234.01.03,EXAMPLE_LOCATION,hydraulics,Removed,Removed,240,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,36400
+PM01,1992,6/08/2001,0/1/00,replace blown hydraulic hose.,WC1,1234.01.04,EXAMPLE_LOCATION,hydraulic hoses & lines,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,36500
+PM01,2184,25/02/2006,25/02/2006,replace both lower bull hoses,WC1,1234.01.05,EXAMPLE_LOCATION,mast bull hose,Removed,Removed,175,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,36600
+PM01,2348,10/03/2006,10/03/2006,replace brushes in condensor fan motor,WC1,1234.01.06,EXAMPLE_LOCATION,air conditioning,Removed,Removed,622,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,36700
+PM01,2442,1/11/2007,0/1/00,replace bull hose with steel pipe,WC1,1234.01.07,EXAMPLE_LOCATION,bullhose,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,36800
+PM01,2215,17/03/2006,0/1/00,replace check valve seal kits,WC1,1234.01.08,EXAMPLE_LOCATION,levelling jack cylinders,Removed,Removed,110,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,36900
+PM01,2021,22/02/2006,0/1/00,replace compressor cooler fan hoses,WC1,1234.01.09,EXAMPLE_LOCATION,hydraulic hoses & lines,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,37000
+PM01,2008,6/08/2001,6/08/2001,replace compressor discharge hose,WC1,1234.01.10,EXAMPLE_LOCATION,air piping,Removed,Removed,240,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,37100
+PM01,2342,10/03/2006,0/1/00,replace compressor oil,WC1,1234.01.11,EXAMPLE_LOCATION,oil - compressor,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,37200
+PM01,2258,2/03/2006,2/03/2006,replace deck bush retaining plate,WC1,1234.01.12,EXAMPLE_LOCATION,deck,Removed,Removed,431,PI1,SID1,AID8,Removed,8,Removed,Removed,FALSE,Removed,,,Z,37300
+PM01,2296,6/03/2006,6/03/2006,replace drill steel in rack,WC1,1234.01.13,EXAMPLE_LOCATION,drill rods,Removed,Removed,935,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,37400
+PM01,2162,24/02/2006,24/02/2006,replace engine outer air filters,WC1,1234.01.14,EXAMPLE_LOCATION,induction & exhaust,Removed,Removed,491,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,37500
+PM01,2106,14/03/2006,23/02/2006,replace faulty circuit breaker,WC1,1234.01.15,EXAMPLE_LOCATION,240v power,Removed,Removed,664,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,37600
+PM01,2314,3/05/2006,0/1/00,replace feed and hoist ropes,WC1,1234.01.16,EXAMPLE_LOCATION,feed ropes,Removed,Removed,NA,PI1,SID1,AID2,Removed,2,Removed,Removed,TRUE,Removed,,,X,37700
+PM01,2303,6/03/2006,0/1/00,replace feed pipe,WC1,1234.01.17,EXAMPLE_LOCATION,hydraulic hoses & lines,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,37800
+PM01,2302,13/03/2006,13/03/2006,replace feed pressure gauge,WC1,1234.01.18,EXAMPLE_LOCATION,operators control console,Removed,Removed,946,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,37900
+PM01,2074,24/03/2006,24/03/2006,replace feed pump inlet seals,WC1,1234.01.19,EXAMPLE_LOCATION,hydraulic hoses & lines,Removed,Removed,421,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,38000
+PM01,2075,22/02/2006,21/02/2006,replace feed pump shaft seal,WC1,1234.01.20,EXAMPLE_LOCATION,pump drive gearbox front,Removed,Removed,NA,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,38100
+PM01,2077,24/02/2006,0/1/00,replace feed pump stroker plate,WC1,1234.02.01,EXAMPLE_LOCATION,hydraulic pump - feed,Removed,Removed,200,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,38200
+PM01,2078,15/03/2006,15/03/2006,replace front driveshaft adaptor lock,WC1,1234.02.02,EXAMPLE_LOCATION,driveline - pump drive gearbox front,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,38300
+PM01,2382,1/11/2007,0/1/00,replace fuel inj. pump. mid life 1.7.3,WC1,1234.02.03,EXAMPLE_LOCATION,fuel injector pump,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,38400
+PM01,2158,24/02/2006,0/1/00,replace head packing,WC1,1234.02.04,EXAMPLE_LOCATION,main frame,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,38500
+PM01,2352,11/03/2006,0/1/00,replace head sub on ITEM_ID,WC1,1234.02.05,EXAMPLE_LOCATION,subs/adaptors,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,38600
+PM01,2500,29/03/2006,0/1/00,replace hyd oil cooler,WC1,1234.02.06,EXAMPLE_LOCATION,hydraulic oil cooler,Removed,Removed,0,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Y,38700
+PM01,2248,3/05/2006,0/1/00,replace hyd. holding valves,WC1,1234.02.07,EXAMPLE_LOCATION,pumps/valves/controls,Removed,Removed,NA,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,38800
+PM01,2282,8/03/2006,0/1/00,replace hyd. return filters,WC1,1234.02.08,EXAMPLE_LOCATION,hydraulic tank,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,38900
+PM01,2266,14/08/2001,14/08/2001,replace ignition switch,WC1,1234.02.09,EXAMPLE_LOCATION,electrical,Removed,Removed,360,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,39000
+PM01,2284,14/08/2001,14/08/2001,replace l/h lower feed sprocket,WC1,1234.02.10,EXAMPLE_LOCATION,feed sprockets,Removed,Removed,600,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,39100
+PM01,2292,15/03/2006,0/1/00,replace l/h rear jack control,WC1,1234.02.11,EXAMPLE_LOCATION,levelling jack cylinder - front left,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,39200
+PM01,2431,26/03/2006,18/03/2006,replace l/h/s top carrier sprocket,WC1,1234.02.12,EXAMPLE_LOCATION,mast,Removed,Removed,NA,PI1,SID1,AID8,Removed,8,Removed,Removed,FALSE,Removed,,,Y,39300
+PM01,2253,28/02/2006,28/02/2006,replace leaking fuel filter,WC1,1234.02.13,EXAMPLE_LOCATION,fuel system,Removed,Removed,237,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,39400
+PM01,2109,23/02/2006,0/1/00,replace lh propel control,WC1,1234.02.14,EXAMPLE_LOCATION,electrical cables/controls,Removed,Removed,875,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,39500
+PM01,2269,12/04/2006,0/1/00,replace load rollers.,WC1,1234.02.15,EXAMPLE_LOCATION,track rollers - rh,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,39600
+PM01,2189,8/03/2006,0/1/00,replace lower bull hose safety rope,WC1,1234.02.16,EXAMPLE_LOCATION,mast bull hose,Removed,Removed,22,PI1,SID1,AID2,Removed,2,Removed,Removed,TRUE,Removed,,,Z,39700
+PM01,2163,5/03/2006,0/1/00,replace main airline check valve,WC1,1234.02.17,EXAMPLE_LOCATION,air compressor system,Removed,Removed,904,PI1,SID1,AID8,Removed,8,Removed,Removed,FALSE,Removed,,,X,39800
+PM01,2086,22/02/2006,0/1/00,replace main cab window,WC1,1234.02.18,EXAMPLE_LOCATION,cab glass,Removed,Removed,704,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,39900
+PM01,2037,17/02/2006,0/1/00,replace mast flexible bull hose,WC1,1234.02.19,EXAMPLE_LOCATION,mast flexible hose,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,40000
+PM01,2438,22/03/2006,22/03/2006,replace mast raise controller,WC1,1234.02.20,EXAMPLE_LOCATION,hydraulic stacker valve - lower,Removed,Removed,NA,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,40100
+PM01,2157,24/02/2006,0/1/00,replace minimum pressure valve,WC1,1234.02.21,EXAMPLE_LOCATION,air system controls,Removed,Removed,582,PI1,SID1,AID8,Removed,8,Removed,Removed,FALSE,Removed,,,Y,40200
+PM01,2036,17/02/2006,17/02/2006,replace missing grouser plate bolts,WC1,1234.02.22,EXAMPLE_LOCATION,frame,Removed,Removed,735,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,40300
+PM01,2045,18/02/2006,18/02/2006,replace missing r/h head slide,WC1,1234.02.23,EXAMPLE_LOCATION,rotary head guides,Removed,Removed,776,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,40400
+PM01,2217,27/02/2006,0/1/00,replace missing rocker switch,WC1,1234.02.24,EXAMPLE_LOCATION,electrical,Removed,Removed,765,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,40500
+PM01,2290,4/03/2006,4/03/2006,replace o-ring in valve,WC1,1234.02.25,EXAMPLE_LOCATION,hydraulic stacker valve - lower,Removed,Removed,435,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,40600
+PM01,2400,1/11/2007,0/1/00,replace oil & air hoses as req.,WC1,1234.02.26,EXAMPLE_LOCATION,air compressor system,Removed,Removed,4,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,40700
+PM01,2390,22/03/2006,0/1/00,replace pipe positioner cups,WC1,1234.02.27,EXAMPLE_LOCATION,drill rods,Removed,Removed,131,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,40800
+PM01,2011,8/03/2006,0/1/00,replace power step lower solenoid,WC1,1234.02.28,EXAMPLE_LOCATION,access stairs,Removed,Removed,129,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,40900
+PM01,2053,19/02/2006,0/1/00,replace primer pump,WC1,1234.02.29,EXAMPLE_LOCATION,fuel system,Removed,Removed,90,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,41000
+PM01,2306,22/03/2006,0/1/00,replace r/h comp/hyd cooler fan,WC1,1234.02.30,EXAMPLE_LOCATION,fan motor - rh,Removed,Removed,NA,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,41100
+PM01,2418,17/03/2006,17/03/2006,replace r/h mast lock cylinder,WC1,1234.02.31,EXAMPLE_LOCATION,mast lock cylinder - right,Removed,Removed,NA,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,41200
+PM01,2327,8/03/2006,8/03/2006,replace r/h mast locking cyl,WC1,1234.02.32,EXAMPLE_LOCATION,mast,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,41300
+PM01,2022,22/03/2006,0/1/00,replace rear acc. pump face oring,WC1,1234.02.33,EXAMPLE_LOCATION,hydraulic pump - accessory rear,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,41400
+PM01,2265,22/03/2006,0/1/00,replace return filter lid studs,WC1,1234.02.34,EXAMPLE_LOCATION,hydraulic tank,Removed,Removed,743,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,41500
+PM01,1997,17/02/2006,0/1/00,replace rotry head oil,WC1,1234.02.35,EXAMPLE_LOCATION,oil - rotary head gearbox,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,41600
+PM01,2399,1/11/2007,0/1/00,replace rubber intake hoses,WC1,1234.02.36,EXAMPLE_LOCATION,air piping,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,41700
+PM01,2007,15/02/2006,16/02/2006,replace shaft front uni u/s,WC1,1234.02.37,EXAMPLE_LOCATION,driveline - pump drive gearbox front,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,41800
+PM01,2252,8/03/2006,0/1/00,replace short bull hose,WC1,1234.02.38,EXAMPLE_LOCATION,mast bull hose,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,41900
+PM01,2137,10/05/2006,0/1/00,replace slew brgs on front palfinger,WC1,1234.02.39,EXAMPLE_LOCATION,crane palfinger lh front,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,42000
+PM01,1976,11/02/2006,10/02/2006,replace staple lock on tool wrench,WC1,1234.02.40,EXAMPLE_LOCATION,drill tools,Removed,Removed,177,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,42100
+PM01,2299,10/03/2006,0/1/00,replace tappet cover gaskets,WC1,1234.01.01,EXAMPLE_LOCATION,engine,Removed,Removed,73,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,42200
+PM01,2508,23/04/2006,0/1/00,replace top viewing window,WC1,1234.01.02,EXAMPLE_LOCATION,cab glass,Removed,Removed,0,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Y,42300
+PM01,2430,3/05/2006,3/05/2006,replace track grousers bolts,WC1,1234.01.03,EXAMPLE_LOCATION,track - right,Removed,Removed,340,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,42400
+PM01,2025,16/02/2006,16/02/2006,replace turbo accumulator- engine line,WC1,1234.01.04,EXAMPLE_LOCATION,oil - engine,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,42500
+PM01,2004,14/02/2006,0/1/00,replace turbo oil feed line,WC1,1234.01.05,EXAMPLE_LOCATION,lubrication system,Removed,Removed,203,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,42600
+PM01,2450,1/11/2007,0/1/00,replace water tank rear support beam,WC1,1234.01.06,EXAMPLE_LOCATION,water injection system,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,42700
+PM01,2262,1/03/2006,0/1/00,replace/rotate sub saver,WC1,1234.01.07,EXAMPLE_LOCATION,subs/adaptors,Removed,Removed,799,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,42800
+PM01,2006,16/02/2006,0/1/00,replaced  starter motor,WC1,1234.01.08,EXAMPLE_LOCATION,electric starter motor,Removed,Removed,767,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,42900
+PM01,2160,15/03/2006,0/1/00,replaced 500w self ballast lamps,WC1,1234.01.09,EXAMPLE_LOCATION,240v power,Removed,Removed,171,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,43000
+PM01,2017,15/02/2006,0/1/00,replaced a/c filter,WC1,1234.01.10,EXAMPLE_LOCATION,air conditioning system,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,43100
+PM01,2444,20/03/2006,21/03/2006,replaced dies on breakout wrench.,WC1,1234.01.11,EXAMPLE_LOCATION,breakout wrench,Removed,Removed,215,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,43200
+PM01,2059,20/02/2006,0/1/00,replaced evaporator fan brushes,WC1,1234.01.12,EXAMPLE_LOCATION,air conditioning,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,43300
+PM01,2058,20/02/2006,0/1/00,replaced light out on mast,WC1,1234.01.13,EXAMPLE_LOCATION,24v lighting,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,43400
+PM01,2457,1/11/2007,0/1/00,reposition propell valves,WC1,1234.01.14,EXAMPLE_LOCATION,pumps/valves/control,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,43500
+PM01,2313,22/03/2006,22/03/2006,reposition winch control switch,WC1,1234.01.15,EXAMPLE_LOCATION,electrical cables/controls,Removed,Removed,143,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,43600
+PM01,2105,15/03/2006,15/03/2006,reposition winch switch,WC1,1234.01.16,EXAMPLE_LOCATION,electrical cables/controls,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,43700
+PM01,2174,8/08/2001,0/1/00,requires new deck pin bush,WC1,1234.01.17,EXAMPLE_LOCATION,deck,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,43800
+PM01,2003,15/03/2006,14/02/2006,reseal holding valve,WC1,1234.01.18,EXAMPLE_LOCATION,pumps/valves/control,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,43900
+PM01,2076,10/03/2006,0/1/00,reseal r/h propel pump adaptor,WC1,1234.01.19,EXAMPLE_LOCATION,hydraulic pump - right propel,Removed,Removed,8,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,44000
+PM01,2005,14/02/2006,14/02/2006,reset c/b for inverter,WC1,1234.01.20,EXAMPLE_LOCATION,24v lighting,Removed,Removed,351,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,44100
+PM01,2353,11/03/2006,11/03/2006,reset hold down valve relief press,WC1,1234.02.01,EXAMPLE_LOCATION,pumps/valves/control,Removed,Removed,863,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,44200
+PM01,2180,8/08/2001,9/08/2001,reset lights,WC1,1234.02.02,EXAMPLE_LOCATION,electrical,Removed,Removed,180,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,44300
+PM01,1991,13/02/2006,13/02/2006,review pmo2000 sheets for ITEM_ID,WC1,1234.02.03,EXAMPLE_LOCATION,drill truck mechanical  NA NA,Removed,Removed,NA,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Y,44400
+PM01,2239,14/08/2001,14/08/2001,reweld slap wrench  stop,WC1,1234.02.04,EXAMPLE_LOCATION,other systems,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,44500
+PM01,2408,12/04/2006,0/1/00,rewire access steps,WC1,1234.02.05,EXAMPLE_LOCATION,electrical,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,44600
+PM01,2443,1/11/2007,0/1/00,rewire machine,WC1,1234.02.06,EXAMPLE_LOCATION,electrical cables/controls,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,44700
+PM01,2235,27/02/2006,28/02/2006,rod soupert cups,WC1,1234.02.07,EXAMPLE_LOCATION,drill rods,Removed,Removed,575,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,44800
+PM01,2030,25/02/2006,25/02/2006,rod support arm creeping in,WC1,1234.02.08,EXAMPLE_LOCATION,rod support assembly,Removed,Removed,87,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,44900
+PM01,2318,7/03/2006,0/1/00,rollers no 3/5 on r/h/s u/s,WC1,1234.02.09,EXAMPLE_LOCATION,track rollers,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,45000
+PM01,1984,5/04/2006,8/03/2006,rollers on the way out,WC1,1234.02.10,EXAMPLE_LOCATION,track rollers left hand,Removed,Removed,NA,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,45100
+PM01,2364,16/08/2001,16/08/2001,rotary head seal leaking,WC2,1234.02.11,EXAMPLE_LOCATION,rotary head gearbox,Removed,Removed,681,PI1,SID1,AID4,Removed,4,Removed,Removed,FALSE,Removed,,,X,45200
+PM01,2128,23/02/2006,0/1/00,rotate/replace box sub,WC1,1234.02.12,EXAMPLE_LOCATION,subs/adaptors,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,45300
+PM01,2330,24/05/2006,0/1/00,rotation controller needs adjusting.,WC1,1234.02.13,EXAMPLE_LOCATION,controllers,Removed,Removed,0,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Z,45400
+PM01,2087,22/02/2006,22/02/2006,rotation hyd pipe cracked on mast,WC1,1234.02.14,EXAMPLE_LOCATION,hydraulic hoses and pipes,Removed,Removed,175,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,45500
+PM01,2026,22/02/2006,22/02/2006,scope to replace mast pedistal,WC1,1234.02.15,EXAMPLE_LOCATION,mast,Removed,Removed,NA,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,45600
+PM01,2259,1/03/2006,0/1/00,scv ITEM_ID repairs,WC1,1234.02.16,EXAMPLE_LOCATION,manufacturer6 - d40ksl overburden drill,Removed,Removed,612,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,45700
+PM01,2000,14/02/2006,0/1/00,scv ITEM_ID repairs 10/2/2006,WC1,1234.02.17,EXAMPLE_LOCATION,manufacturer6 - d40ksl overburden drill,Removed,Removed,797,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,45800
+PM01,2395,16/03/2006,0/1/00,scv ITEM_ID repairs 10/3/06,WC1,1234.02.18,EXAMPLE_LOCATION,manufacturer6 - d40ksl overburden drill,Removed,Removed,818,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,45900
+PM01,2001,14/02/2006,0/1/00,scv ITEM_ID repairs 11/2/2006,WC1,1234.02.19,EXAMPLE_LOCATION,drill truck mechanical  model1 NA,Removed,Removed,399,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Z,46000
+PM01,1999,14/02/2006,0/1/00,scv ITEM_ID repairs 8/2/2006,WC1,1234.02.20,EXAMPLE_LOCATION,drill truck mechanical  model1 NA,Removed,Removed,NA,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,46100
+PM01,2372,14/03/2006,0/1/00,scv NA repairs 08/03/06,WC1,1234.02.21,EXAMPLE_LOCATION,drill truck mechanical  model1 NA,Removed,Removed,250,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,46200
+PM01,2203,11/08/2001,0/1/00,service machine,WC1,1234.02.22,EXAMPLE_LOCATION,air compressor system,Removed,Removed,NA,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,46300
+PM01,2133,8/08/2001,0/1/00,shackle missing onsafety chain on bull h,WC1,1234.02.23,EXAMPLE_LOCATION,bullhose,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,46400
+PM01,2506,29/03/2006,28/03/2006,shorten head slide adjustind bolts,WC1,1234.02.24,EXAMPLE_LOCATION,rotary head guides,Removed,Removed,287,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Y,46500
+PM01,2254,28/02/2006,28/02/2006,shut down measurement of cabin,WC1,1234.02.25,EXAMPLE_LOCATION,manufacturer6 - d40ksl overburden drill,Removed,Removed,143,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,46600
+PM01,2405,16/03/2006,0/1/00,shut down system not working,WC1,1234.02.26,EXAMPLE_LOCATION,engine,Removed,Removed,113,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,X,46700
+PM01,2291,4/03/2006,4/03/2006,shuting down on comp oil temp,WC1,1234.02.27,EXAMPLE_LOCATION,oil - compressor,Removed,Removed,431,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Y,46800
+PM01,2148,13/08/2001,0/1/00,sometimes head takes off up at full spee,WC1,1234.02.28,EXAMPLE_LOCATION,feed controller,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,46900
+PM01,2201,10/08/2001,0/1/00,stem b 177 slightly bent,WC1,1234.02.29,EXAMPLE_LOCATION,drill rods,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,47000
+PM01,2414,16/03/2006,0/1/00,stem locked up,WC1,1234.02.30,EXAMPLE_LOCATION,drill rods,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,47100
+PM01,2099,8/08/2001,0/1/00,step indicator not working,WC1,1234.02.31,EXAMPLE_LOCATION,electrical cables/controls,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,47200
+PM01,2187,8/03/2006,8/03/2006,straighten sheave carrier rope guides,WC1,1234.02.32,EXAMPLE_LOCATION,feed ropes,Removed,Removed,215,PI1,SID1,AID2,Removed,2,Removed,Removed,TRUE,Removed,,,X,47300
+PM01,2156,8/08/2001,0/1/00,sub getting close to changing,WC1,1234.02.33,EXAMPLE_LOCATION,subs/adaptors,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,47400
+PM01,2002,14/02/2006,0/1/00,supply lanotec chain lube,WC1,1234.02.34,EXAMPLE_LOCATION,chain feed  pulldown,Removed,Removed,190,PI1,SID1,AID8,Removed,8,Removed,Removed,FALSE,Removed,,,Z,47500
+PM01,2425,18/03/2006,0/1/00,tap leaking on compressor tank,WC1,1234.02.35,EXAMPLE_LOCATION,manufacturer6 - NA overburden drill,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,47600
+PM01,2388,15/03/2006,0/1/00,test park brake,WC1,1234.02.36,EXAMPLE_LOCATION,frame,Removed,Removed,0,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Y,47700
+PM01,2060,20/02/2006,0/1/00,thread lube gasket blown,WC1,1234.02.37,EXAMPLE_LOCATION,grease lube system,Removed,Removed,53,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,47800
+PM01,2341,10/03/2006,10/03/2006,thread/bit lube not working,WC1,1234.02.38,EXAMPLE_LOCATION,grease lube system,Removed,Removed,287,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,47900
+PM01,2031,16/02/2006,17/02/2006,thred lube pump not working,WC1,1234.02.39,EXAMPLE_LOCATION,subs/adaptors,Removed,Removed,263,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,48000
+PM01,2406,16/03/2006,0/1/00,tighten front engine bolts,WC1,1234.02.40,EXAMPLE_LOCATION,engine - main,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,48100
+PM01,2441,20/03/2006,0/1/00,tighten loose turbo exhaust clamp,WC1,1234.01.01,EXAMPLE_LOCATION,induction & exhaust system,Removed,Removed,0,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,X,48200
+PM01,2263,16/03/2006,16/03/2006,timing bar misaligned,WC1,1234.01.02,EXAMPLE_LOCATION,timing shaft,Removed,Removed,575,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,48300
+PM01,2385,31/12/2006,0/1/00,tune engine,WC1,1234.01.03,EXAMPLE_LOCATION,engine,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,48400
+PM01,2242,3/09/2001,0/1/00,upgrade chubb fire suppression system,WC1,1234.01.04,EXAMPLE_LOCATION,other systems,Removed,Removed,NA,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,48500
+PM01,2241,3/09/2001,0/1/00,upgrade chubb fire supprression system,WC1,1234.01.05,EXAMPLE_LOCATION,other systems,Removed,Removed,NA,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Y,48600
+PM01,2396,31/12/2006,0/1/00,wash & clean inlet filter housing,WC1,1234.01.06,EXAMPLE_LOCATION,induction & exhaust system,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Z,48700
+PM01,2398,1/11/2007,0/1/00,wash & clean inltake filter housing,WC1,1234.01.07,EXAMPLE_LOCATION,air compressor system,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,48800
+PM01,2111,23/02/2006,0/1/00,water  injection system not working,WC1,1234.01.08,EXAMPLE_LOCATION,water injection system,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,48900
+PM01,2092,22/02/2006,0/1/00,water injection hose u/s,WC1,1234.01.09,EXAMPLE_LOCATION,water injection system,Removed,Removed,281,PI1,SID1,AID5,Removed,5,Removed,Removed,FALSE,Removed,,,Z,49000
+PM01,2176,8/08/2001,0/1/00,water injection pump not working,WC1,1234.01.10,EXAMPLE_LOCATION,water injection water pump,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,49100
+PM01,1974,11/02/2006,0/1/00,water trap req'd for thread lube pump,WC1,1234.01.11,EXAMPLE_LOCATION,thread lubrication system,Removed,Removed,0,PI1,SID1,AID2,Removed,2,Removed,Removed,FALSE,Removed,,,Y,49200
+PM01,2350,19/03/2006,0/1/00,weekly inspection NA,WC1,1234.01.12,EXAMPLE_LOCATION,drill truck mechanical  NA NA,Removed,Removed,20,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Z,49300
+PM01,2359,16/08/2001,0/1/00,weekly inspection to be done 22-08-01,WC1,1234.01.13,EXAMPLE_LOCATION,drill truck mechanical  NA NA,Removed,Removed,0,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,X,49400
+PM01,2361,16/08/2001,0/1/00,weekly inspection to be done on 20-08-01,WC1,1234.01.14,EXAMPLE_LOCATION,manufacturer6 - d40ksl overburden drill,Removed,Removed,0,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,Y,49500
+PM01,2073,21/02/2006,0/1/00,weld bracket,WC1,1234.01.15,EXAMPLE_LOCATION,main frame,Removed,Removed,0,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Z,49600
+PM01,2009,6/08/2001,6/08/2001,weld cracked hyd pipe,WC1,1234.01.16,EXAMPLE_LOCATION,hydraulics,Removed,Removed,240,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,49700
+PM01,2504,29/03/2006,0/1/00,window washer/wyper repairs,WC1,1234.01.17,EXAMPLE_LOCATION,cab glass,Removed,Removed,0,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Y,49800
+PM01,2207,12/08/2001,12/08/2001,"won""t start",WC1,1234.01.18,EXAMPLE_LOCATION,electrical,Removed,Removed,372,PI1,SID1,AID7,Removed,7,Removed,Removed,FALSE,Removed,,,Z,49900
+PM01,2032,16/02/2006,17/02/2006,working air presure,WC1,1234.01.19,EXAMPLE_LOCATION,air compressor system,Removed,Removed,333,PI1,SID1,AID1,Removed,1,Removed,Removed,FALSE,Removed,,,X,50000
+PM01,2375,15/03/2006,0/1/00,zac's ITEM_ID signs,WC1,1234.01.20,EXAMPLE_LOCATION,drill truck mechanical  NA NA,Removed,Removed,800,PI1,SID1,AID9,Removed,9,Removed,Removed,FALSE,Removed,,,Y,50100

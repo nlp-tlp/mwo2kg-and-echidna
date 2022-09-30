@@ -1,0 +1,500 @@
+1000 hr mechanical and lube service
+2 lights out on machine
+3 x 240 volt lights out
+ITEM_ID compressor oil requires top up
+ITEM_ID inspection 29/12 eme4489
+ITEM_ID mechancial service 4 wk/500 hr
+ITEM_ID not tramming
+ITEM_ID pre service setup
+ITEM_ID pre-service setup
+ITEM_ID pre-service setup
+access audit repairs
+adjust rotary head guides
+air /con very noisy
+air cond compressor
+air cond. working intermittently.
+air leak around rotary head
+air valve not shutting off
+alternator r/s
+audible alarm on softly at all times
+auto level device reading backwards
+autosparks NA 08/03/06
+bad vibration
+bent hand rail at back cabin door
+blow hose
+book out filters
+both rear jacks leaking oil
+break out u/s
+breakout fork cylinder - rework
+broken control connection.
+broken go switch r/h mast lock   .the in
+broken handraill/h/s crows nest
+broken hose on cylinder
+broken l/h pulldown chain
+broken locking pin
+broken tool wrench holding cylinder.
+build up rod support beak
+bull hose air leak.
+bull hose split
+busted hydraulic hose
+c spanner for minning
+c/b6 tripping e/l.
+cab interior light not working
+capital     test cab
+capital    fit hyd. drive to a/c compres
+capital    move cab door as per drawings
+capital   engine protection hood
+capital   fit larger sumpmachine shut do
+capital   fit walk way to rhs of mast
+capital   install mesh in mast
+capital   turbo & ex manifold guards.
+capital  install access sys.
+capital  modify  w/ways around eng.
+capital- chubb o/haul fire sys.
+carousel not actioning to postion steels
+case-drain leaking
+cci; routine ndt inspection
+chaine oiler no working
+change cyclinder.
+change out cyl
+change out deck seal
+change out lube pump
+changeout compressor drive shaft
+check and repair exhaust leaks
+check drill water level sensor
+check feed system control
+check fire alarm
+check hyd. return filters for debris
+check oil leak at rotary head
+clean out chain lube canister
+comp high air tenp
+comp. air tune at end of s/down
+complete 1000 hr mechenical inspect.
+complete parts listing for shutdown
+compresor over temp fault
+compressor control repairs
+compressor no air
+compressor oil low lube alarm
+compressor oil low pressure fault
+compressor over temp
+control panel alarms not working
+coolant leak around coolant sensor
+counter looses track of depth
+crack in chassis
+crack in l/h top side handrail
+crack in pipe near holding valve
+crack test & repair fuel tanks
+cracked mast-lh outer
+cracks in radiator chassis mounting
+crane & truck drill steel to ITEM_ID
+cwpope to test seperator housing
+damaged electrical cable on ITEM_ID
+dead man switch not working.
+deck bush needs replacing ITEM_ID
+deck bush woren
+deck cylinders creeping  valve u/s
+deck falling down
+deck seal
+def. check cab dust entry
+def. check coolant flow switch
+def. replace deck seal
+def. replace deck shute rubbers
+def.carosuel lower roller u/s
+def.check and repair pipe support limits
+def.check engine oil leak
+def.check feed and rotation pressure
+def.check head creep
+def.check mast pins for play
+def.check water injection hose onto head
+def.compressor receiver tap leaking
+def.fluro light in cab not working
+def.light shinning up to head out
+def.off side camera not working
+def.one driveshaft nipple wont tak greas
+def.pipe support arm worn through
+def.tap on potable water inlet leaking
+discon gene from shutdown pad.
+door latch repair
+doors seals not sealing at top of doors
+drill bit repairs
+drill tracking to the left
+drill will not tram
+drillpro. o/haul 8 mast index cylinders.
+drillpro. o/haul air on/off cylinder.
+drillpro. o/haul lh mast lift cylinder.
+drillpro. o/haul lhs feed cylinder.
+drillpro. o/haul lock cylinder.
+drillpro. o/haul rhs feed cylinder.
+drive train vibration & noise  found alt
+dust leaking into cab
+eng shuts down no reason found
+eng will not shut down
+engine hour meter not working
+engine oil pressure gauge not working
+engine shutdown, cylinder head failure
+engine shutting down with air demand
+erratic control of jacks & hoist.
+fab & fit access to cab top & mast
+fab & fit new elect box in cab
+fab & relocate battery box
+fab. & fit emergency exit steps.
+fan motor noisy
+faulty circuit breaker on generator
+faulty proximity switch & circuit breaka
+feed and jacks slow
+feed controler not holding head
+feed lever very tight
+feed override switch not working
+feed potentiometer playing up
+feed pressure guage sticking
+feed pressure problem
+feed wont operate
+fidecks require new skirts
+final shutdown scope
+fit 60 litre comp. oil reserve tank
+fit dicky seat
+fit diesel wiggins to l/h side point
+fit hyd. drive to alternator
+fit new deck
+fit new deck bush
+fit new deck bush to ITEM_ID
+fit new rod holder arm
+fit new stems,sub & deck bush
+fit pex turbo
+fitting loose on siwvel
+fix door seal
+flat battery jump start
+front jack light not going out
+front jack limits not working
+front jacks will not work
+front jacks wont raise
+grease leak at frame lube pump fittings
+grease lube alarm
+grease pump needs overhauling
+grease pump r/s
+grease tank leaking at pump base
+grs b.creedon 15/2/06
+grs g.reid 8/2/06
+grs l.cambell 15/2/06
+hand rail repairs.
+hasting doing a service
+hastings inspection
+head & deck creeping down
+head control valve not working
+head guides worn
+head keeps creeping down
+head playing up.
+head sensor for traming at top of mast
+head up guides and cups need replacing
+hid lights not working
+hoist feed to farst
+hose between compressor oil tank & seper
+hose off the air tank bent
+hose tangled in rotary head
+hyd cab door to be bolted shut
+hyd gauges not working
+hyd tune at end of shut down
+hydraulic control button won't switch of
+hydraulic pressure guage sticking.
+hydraulic warning alarm
+input seal leaking on front drive box
+inspect crack in hydraulic tank ITEM_ID
+inspect hydraulic oil leak on jack leg
+inspect idlers & report condition
+inspect l/h propel pump operation
+inspect possible cable damage
+inspection 3/5/01. some hyd hoses behind
+install 85/140 dry-break couplings
+install 85/140 drybreak couplings
+install gate valve in hyd suction line
+install new deck seal
+installling ballasts
+inverter tripping on e/l
+isolate 2 burnt cables - see text
+jack check seals hard- erratic
+jack not retracting
+jakstas NA repairs 10/2/06
+l/h lower feed sproket out of line
+l/h track binding up
+l/h track is slow to operate
+lanolin for chain lube
+leak l/h fan motor hose.
+leaking cyclinder.
+levelling jacks slow
+lhs mast lift cylinder leaking.
+lift stem back in
+light's not working
+lights cutting out
+loose growser bolts l/h track
+loss of downhole air
+lost a cylender pin
+lost a rod
+lost pin to indexing cylender
+low compressor air pressure
+low on power & turbo glowing red
+low power
+lube alarm activated
+malfunction in bit lube system.
+manufacturer24 ITEM_ID  repairs
+manufacturer24 ITEM_ID 10/02/2006
+manufacturer24 ITEM_ID 15/03/06
+manufacturer24 ITEM_ID 15/2/06
+manufacturer24 ITEM_ID repairs
+manufacturer24 NA 14-03-06
+manufacturer24 NA 8/3/06 repairs
+manufacturer24 NA repairs
+manufacturer30 have lost menu bar
+manufacturer5 o/haul mast raise cylinder
+mask locking pin light u/s
+mast locking pin u/s
+mast pin will not retract
+mast warning light not working
+mindrill refurb drill rods
+modify slap wrench hold down lugs
+move water tank o/flow to outside
+needs a crane first up ...dropped steel
+needs a jump start
+no down hole air
+no water going to mast
+not hoisting up
+o/haul air conditioning system
+o/haul track frame pivot
+o/haul winch
+oil leak around pumps
+oil leak at bottom of mast
+oil leak at deck wrench
+oil leak at l/h/f chassis
+oil leak at l/h/f jack cylinder
+oil leak at turbo
+oil leak feed pump
+oil leak l/h feed cylinder
+oil leak on feed cylinder
+oil leak regen valve
+oil leak under acc. pumps
+oil leak under oil cooler
+oil leakon tool wrench
+oil leaks in hyd. cabnet
+oil leaks on mast.
+oil lines tangled
+one filter still leaking oil
+operator change air filter
+overhaul water injection pump
+p[ipe positioner switch r/s
+park brake will not hold
+parrot beaks need building up.
+pipe in hole alarm
+pipe support cups
+poasitioner arm cups npt holding
+positioner arm not working
+postioner arm not working
+pre-service setup
+purchace  85w140 drybreak couplings
+purchace 85w140 drybreak couplings
+quote to repair main pump
+quote to repair propel motor
+r/h upper loader cyl leaking
+r/h/f engine mount bolts loose
+radio falling out of bracket
+rail staunchen broken l/h crows nest
+reair oil leaks from under cylinder head
+reamer needs replacing or removeing
+rear cabin door requires new rubber
+recharge fire suppression
+refit and tighten a/c mounting bolts
+refit winch rope
+refurbish operators seat
+relace manufacturer2 drain hose
+relocate hyd. filters to front of tank
+remove - refit cab
+remove link from both feed chain
+remove rod so they can change bit
+repaint drill
+repair and replace comp. discharge hose
+repair breakout fork cylinder on r/h
+repair broken pull down chains ITEM_ID
+repair cab e-stop "not working"
+repair charging
+repair crack in deck
+repair crack in l/h vertical lock
+repair cracking around cooler pack
+repair cracking in chassis
+repair cracking in track frames
+repair cracks as per ndt report
+repair deck bush on ITEM_ID
+repair dust curtain
+repair dust shute rubbers
+repair engine fire supression capillary
+repair front lights
+repair head speed gauge
+repair hole in bull hose
+repair hydraulic leak up mast
+repair leaking a/c motor
+repair light bracket
+repair lube line on ITEM_ID
+repair mast safety rail
+repair oil leak on cylinder
+repair oil leak on hydraulic return hose
+repair pin in pull down chain ITEM_ID
+repair to auto fire supression
+repair traveling sheeve guide
+repair/replace blown hoses
+repaired two lights
+repairing air blower on window
+repairs to brake out wrench
+repairs to breakout wrench
+repairs to positioner arm
+repairs to tool rench
+repalce alt. belts
+repalce cylinder head
+replace & relocate oil lube station
+replace 2 x lower bull hoses
+replace 3x lights
+replace a/c clutch
+replace a/c comressor
+replace a/c flow divider cartrigde
+replace air seperator elements
+replace air switch on rotation lever
+replace all cab blinds
+replace all injectors
+replace alternator
+replace alternator belts
+replace battery's
+replace batterys
+replace blown hyd hose
+replace blown hydraulic hose.
+replace both lower bull hoses
+replace brushes in condensor fan motor
+replace bull hose with steel pipe
+replace check valve seal kits
+replace compressor cooler fan hoses
+replace compressor discharge hose
+replace compressor oil
+replace deck bush retaining plate
+replace drill steel in rack
+replace engine outer air filters
+replace faulty circuit breaker
+replace feed and hoist ropes
+replace feed pipe
+replace feed pressure gauge
+replace feed pump inlet seals
+replace feed pump shaft seal
+replace feed pump stroker plate
+replace front driveshaft adaptor lock
+replace fuel inj. pump. mid life 1.7.3
+replace head packing
+replace head sub on ITEM_ID
+replace hyd oil cooler
+replace hyd. holding valves
+replace hyd. return filters
+replace ignition switch
+replace l/h lower feed sprocket
+replace l/h rear jack control
+replace l/h/s top carrier sprocket
+replace leaking fuel filter
+replace lh propel control
+replace load rollers.
+replace lower bull hose safety rope
+replace main airline check valve
+replace main cab window
+replace mast flexible bull hose
+replace mast raise controller
+replace minimum pressure valve
+replace missing grouser plate bolts
+replace missing r/h head slide
+replace missing rocker switch
+replace o-ring in valve
+replace oil & air hoses as req.
+replace pipe positioner cups
+replace power step lower solenoid
+replace primer pump
+replace r/h comp/hyd cooler fan
+replace r/h mast lock cylinder
+replace r/h mast locking cyl
+replace rear acc. pump face oring
+replace return filter lid studs
+replace rotry head oil
+replace rubber intake hoses
+replace shaft front uni u/s
+replace short bull hose
+replace slew brgs on front palfinger
+replace staple lock on tool wrench
+replace tappet cover gaskets
+replace top viewing window
+replace track grousers bolts
+replace turbo accumulator- engine line
+replace turbo oil feed line
+replace water tank rear support beam
+replace/rotate sub saver
+replaced  starter motor
+replaced 500w self ballast lamps
+replaced a/c filter
+replaced dies on breakout wrench.
+replaced evaporator fan brushes
+replaced light out on mast
+reposition propell valves
+reposition winch control switch
+reposition winch switch
+requires new deck pin bush
+reseal holding valve
+reseal r/h propel pump adaptor
+reset c/b for inverter
+reset hold down valve relief press
+reset lights
+review pmo2000 sheets for ITEM_ID
+reweld slap wrench  stop
+rewire access steps
+rewire machine
+rod soupert cups
+rod support arm creeping in
+rollers no 3/5 on r/h/s u/s
+rollers on the way out
+rotary head seal leaking
+rotate/replace box sub
+rotation controller needs adjusting.
+rotation hyd pipe cracked on mast
+scope to replace mast pedistal
+scv ITEM_ID repairs
+scv ITEM_ID repairs 10/2/2006
+scv ITEM_ID repairs 10/3/06
+scv ITEM_ID repairs 11/2/2006
+scv ITEM_ID repairs 8/2/2006
+scv NA repairs 08/03/06
+service machine
+shackle missing onsafety chain on bull h
+shorten head slide adjustind bolts
+shut down measurement of cabin
+shut down system not working
+shuting down on comp oil temp
+sometimes head takes off up at full spee
+stem b 177 slightly bent
+stem locked up
+step indicator not working
+straighten sheave carrier rope guides
+sub getting close to changing
+supply lanotec chain lube
+tap leaking on compressor tank
+test park brake
+thread lube gasket blown
+thread/bit lube not working
+thred lube pump not working
+tighten front engine bolts
+tighten loose turbo exhaust clamp
+timing bar misaligned
+tune engine
+upgrade chubb fire suppression system
+upgrade chubb fire supprression system
+wash & clean inlet filter housing
+wash & clean inltake filter housing
+water  injection system not working
+water injection hose u/s
+water injection pump not working
+water trap req'd for thread lube pump
+weekly inspection NA
+weekly inspection to be done 22-08-01
+weekly inspection to be done on 20-08-01
+weld bracket
+weld cracked hyd pipe
+window washer/wyper repairs
+won"t start
+working air presure
+zac's ITEM_ID signs

@@ -1,0 +1,63 @@
+input,ground_truth,prediction,confidence
+ejected,Minor in-service problems,Leaking,0.4066
+sticking shu,Fail to function,Failure to stop on demand,0.2995
+not turning,Plugged / choked,Plugged / choked,0.5235
+has failed,Breakdown,Breakdown,0.9579
+needs fitting,Minor in-service problems,Minor in-service problems,0.9959
+runs for a while and trip,Electrical,Electrical,0.9825
+very stiff to operate,Fail to function,Breakdown,0.9562
+requires rebuild,Minor in-service problems,Breakdown,0.7511
+has no equipment earth,Electrical,Electrical,0.9907
+require tighteninginspecti,Minor in-service problems,Minor in-service problems,0.959
+does not work,Breakdown,Failure to start on demand,0.4681
+runs continuously,Failure to stop on demand,Spurious stop,0.5318
+severe corrosion,Structural deficiency,Structural deficiency,0.9957
+contamination,Contamination,Contamination,0.836
+doesnt trip,Electrical,Electrical,0.987
+ripped,Structural deficiency,Structural deficiency,0.9202
+unserviceable not in,Breakdown,Breakdown,0.497
+cant be adjusted,Fail to function,Minor in-service problems,0.9931
+worn,Structural deficiency,Structural deficiency,0.9924
+misalignment,Minor in-service problems,Minor in-service problems,0.3022
+switched o,Spurious stop,Breakdown,0.7706
+to be torqued,Minor in-service problems,Minor in-service problems,0.8588
+sped up,High output,Minor in-service problems,0.2819
+unable to pump,Low output,Plugged / choked,0.9389
+spillage,Leaking,Structural deficiency,0.54
+spraying out slurry,Leaking,Leaking,0.9483
+jammed open,Plugged / choked,Breakdown,0.3937
+no pump,Plugged / choked,Plugged / choked,0.7499
+not truning,Plugged / choked,Plugged / choked,0.5565
+unable to tighten,Minor in-service problems,Failure to stop on demand,0.4774
+burnt,Overheating,Structural deficiency,0.3104
+hot joint,Overheating,Overheating,0.7436
+burst,Breakdown,Structural deficiency,0.8921
+pumping fault,Low output,Electrical,0.8105
+not controlling,Minor in-service problems,Plugged / choked,0.5506
+surging cutting in and out,Electrical,Erratic output,0.6798
+failed electrical,Electrical,Breakdown,0.9762
+loose tighten,Minor in-service problems,Minor in-service problems,0.5831
+high earth reading,Abnormal instrument reading,Abnormal instrument reading,0.9575
+cavitating,Erratic output,Leaking,0.694
+requires repack,Minor in-service problems,Minor in-service problems,0.997
+needs support,Minor in-service problems,Minor in-service problems,0.9437
+needs maintenance,Minor in-service problems,Minor in-service problems,0.5988
+not spinning,Minor in-service problems,Minor in-service problems,0.5708
+dont activate,Failure to start on demand,Breakdown,0.5583
+unserviceable b feluwa,Breakdown,Breakdown,0.9935
+no power,Electrical,Minor in-service problems,0.7852
+requires cleaning,Minor in-service problems,Minor in-service problems,0.9928
+doesnt work,Breakdown,Failure to start on demand,0.8518
+vibrationlubealignment,Vibration,Vibration,0.8145
+blockage,Plugged / choked,Structural deficiency,0.604
+ongoing issue,Other,Failure to start on demand,0.4104
+poorly supported,Minor in-service problems,Breakdown,0.611
+rocking around,Vibration,Electrical,0.3287
+siezeddescale,Breakdown,Breakdown,0.7067
+dropped,Minor in-service problems,Minor in-service problems,0.3128
+spraying,Leaking,Leaking,0.8001
+not covered,Minor in-service problems,Minor in-service problems,0.9612
+hot jointfurn,Overheating,Overheating,0.4424
+running dry,Other,Other,0.3133
+smoking up,Overheating,Overheating,0.864
+jammed,Plugged / choked,Plugged / choked,0.6152

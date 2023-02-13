@@ -251,7 +251,9 @@ class DelayAccountingDataset:
     """
 
     def __init__(self, delay_accounting_data_file):
-        self.delay_accounting_events = self.read_dataset(delay_accounting_data_file)
+        self.delay_accounting_events = self.read_dataset(
+            delay_accounting_data_file
+        )
         # print(self.delay_accounting_events)
         self.floc_to_delay_accounting_events = self.build_floc_mapping()
         # print(self.floc_to_delay_accounting_events)
@@ -275,7 +277,9 @@ class DelayAccountingDataset:
             floc = delay_accounting_event["EQUIPMENT_ID_CAUSE_LOCATION"]
             if floc not in floc_to_delay_accounting_events:
                 floc_to_delay_accounting_events[floc] = []
-            floc_to_delay_accounting_events[floc].append(delay_accounting_event)
+            floc_to_delay_accounting_events[floc].append(
+                delay_accounting_event
+            )
         return floc_to_delay_accounting_events
 
 
@@ -409,8 +413,15 @@ class MaintenanceGraphBuilder:
         # Check whether the FLOC of this document is present in the floc_to_delay_accounting_events mapping, i.e.
         # the FLOC appears in the Delay Accounting dataset.
         # If it does, create an Delay Accounting Event node for each Delay Accounting Event with the same FLOC.
-        if floc in self.delay_accounting_dataset.floc_to_delay_accounting_events:
-            delay_accounting_events = self.delay_accounting_dataset.floc_to_delay_accounting_events[floc]
+        if (
+            floc
+            in self.delay_accounting_dataset.floc_to_delay_accounting_events
+        ):
+            delay_accounting_events = (
+                self.delay_accounting_dataset.floc_to_delay_accounting_events[
+                    floc
+                ]
+            )
             print(floc, delay_accounting_events)
 
             for delay_accounting_event in delay_accounting_events:
@@ -427,7 +438,9 @@ class MaintenanceGraphBuilder:
                         "Delay Accounting_Event",
                         name=delay_accounting_event["EXPLANATION"],
                         floc_desc=floc_desc,
-                        effective_duration=delay_accounting_event["EFF_DURATION"],
+                        effective_duration=delay_accounting_event[
+                            "EFF_DURATION"
+                        ],
                         lost_feed=delay_accounting_event["Nickel Tonnes"],
                     )
 
@@ -896,13 +909,19 @@ def main(
     )
 
     if delay_accounting_data_file:
-        delay_accounting_dataset = Delay AccountingDataset(delay_accounting_data_file)
+        delay_accounting_dataset = DelayAccountingDataset(
+            delay_accounting_data_file
+        )
     else:
         delay_accounting_dataset = None
 
     node_normaliser = LexicalNormaliser()
     graph_builder = MaintenanceGraphBuilder(
-        dataset, hierarchy, node_normaliser, defined_fields, delay_accounting_dataset
+        dataset,
+        hierarchy,
+        node_normaliser,
+        defined_fields,
+        delay_accounting_dataset,
     )
 
     graph_builder.build_graph()

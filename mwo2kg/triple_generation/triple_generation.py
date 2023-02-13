@@ -241,7 +241,7 @@ class Hierarchy:
         return hierarchy
 
 
-class Delay AccountingDataset:
+class DelayAccountingDataset:
 
     """An Delay Accounting Dataset, which stores the data from the Delay Accounting csv.
 
